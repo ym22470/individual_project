@@ -1,0 +1,5 @@
+conda/
+
+*.out
+*wget.log
+*.mp4
