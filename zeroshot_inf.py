@@ -44,12 +44,12 @@ messages = [
         "content": [
             {
                 "type": "video",
-                "video": "video.mp4",
+                "video": "/user/home/ym22470/work/videos/zip_folder/0a2ce76d94afb437716c29872e7b4a85473550cff2d8d3f6315afe287d8dfa3e.mp4",
                 # Reduce resolution and frame rate significantly
                 "fps": 0.5, 
                 "resolution": (64, 64),
             },
-            {"type": "text", "text": "Describe the content of this clip in the JSON format that is able for a gallary indexing system to choose form based on the feature of the video. Describe the video in four parts of the timestamp, each part contains the start time and end time in seconds, and a short description of the content in that part."},
+            {"type": "text", "text": "Describe the content of this clip "},
         ],
     }
 ]

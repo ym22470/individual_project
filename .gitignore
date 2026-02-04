@@ -1,5 +1,7 @@
 conda/
 
 *.out
-*wget.log
 *.mp4
+/videos/
+*json
+*jsonl
