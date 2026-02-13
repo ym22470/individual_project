@@ -23,7 +23,7 @@ bnb_config = BitsAndBytesConfig(
 
 # We recommend enabling flash_attention_2 for better acceleration and memory saving, especially in multi-image and video scenarios.
 model = Qwen3VLForConditionalGeneration.from_pretrained(
-    "Qwen/Qwen3-VL-8B-Instruct",
+    "Qwen/Qwen3-VL-4B-Instruct",
     quantization_config=bnb_config, # This is enough
     device_map="auto",
     # max_memory=max_memory_mapping,
@@ -36,7 +36,7 @@ model = Qwen3VLForConditionalGeneration.from_pretrained(
 
 
 processor = AutoProcessor.from_pretrained(
-    "Qwen/Qwen3-VL-8B-Instruct",)
+    "Qwen/Qwen3-VL-4B-Instruct",)
 
 messages = [
     {
@@ -44,12 +44,12 @@ messages = [
         "content": [
             {
                 "type": "video",
-                "video": "/user/home/ym22470/work/videos/zip_folder/0a2ce76d94afb437716c29872e7b4a85473550cff2d8d3f6315afe287d8dfa3e.mp4",
+                "video": "/user/home/ym22470/work/videos/zip_folder/01ff5bb49c2ff92fa41f98dbd1da45a4e9653d215161de8f58647e87af7daddd.mp4",
                 # Reduce resolution and frame rate significantly
-                "fps": 0.5, 
-                "resolution": (64, 64),
+                "fps": 1, 
+                "max_frames": 8, 
             },
-            {"type": "text", "text": "Describe the content of this clip "},
+            {"type": "text", "text": "Describe the content of this clip, in the format of tags (the main objects in the video), mood(the overall feeling or atmosphere), and action(the main activities or movements). Focus on the most salient aspects."},
         ],
     }
 ]
@@ -65,7 +65,7 @@ inputs = processor.apply_chat_template(
 inputs = inputs.to(model.device)
 
 # Inference: Generation of the output
-generated_ids = model.generate(**inputs, max_new_tokens=128)
+generated_ids = model.generate(**inputs, max_new_tokens=256)
 generated_ids_trimmed = [
     out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
 ]

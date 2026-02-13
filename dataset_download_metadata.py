@@ -1,7 +1,7 @@
 from datasets import load_dataset
 import json
 
-def download_sharegpt_subset(limit, output_file="sharegpt4video_subset.json"):
+def download_sharegpt_subset(limit, output_file="sharegpt4video_subset120.json"):
     print(f"Connecting to Hugging Face...")
     
     # Load the dataset in streaming mode to save disk space and time
@@ -30,4 +30,4 @@ def download_sharegpt_subset(limit, output_file="sharegpt4video_subset.json"):
     print(f"\nDone! Saved {len(subset_data)} entries to {output_file}")
 
 if __name__ == "__main__":
-    download_sharegpt_subset(limit=10)
+    download_sharegpt_subset(limit=120)

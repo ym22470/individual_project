@@ -29,5 +29,6 @@ nvidia-smi --query-gpu=name,memory.total --format=csv
 
 # Use -u for real-time logs in your .out file
 # python -u zeroshot_inf.py
-python -u zeroshot_inf_2_5.py
+# python -u zeroshot_inf_2_5.py
 # python -u zeroshot_inf_lama.py
+llamafactory-cli train train_qwen_video.yaml
