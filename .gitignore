@@ -6,5 +6,6 @@ conda/
 /pixabay/
 *json
 *jsonl
-/user/home/ym22470/work/llamaboard_cache/
+/llamaboard_cache/
 /LlamaFactory/
+/qwen2_5_vl_lora_indexing/
