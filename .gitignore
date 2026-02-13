@@ -3,5 +3,8 @@ conda/
 *.out
 *.mp4
 /videos/
+/pixabay/
 *json
 *jsonl
+/user/home/ym22470/work/llamaboard_cache/
+/LlamaFactory/
