@@ -9,3 +9,6 @@ conda/
 /llamaboard_cache/
 /LlamaFactory/
 /qwen2_5_vl_lora_indexing/
+.cache/
+qwen2_5_vl_lora_indexing_1/
+/models/

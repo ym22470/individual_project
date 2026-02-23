@@ -1,0 +1,13 @@
+model_name_or_path: models/llama3_lora_sft
+
+template: qwen2_vl
+finetuning_type: lora
+
+export_dir: models/llama3_gptq
+export_quantization_bit: 4
+export_quantization_nsamples: 8
+export_quantization_dataset: data/calibration_data.json
+export_quantization_maxlen: 128
+export_size: 2
+export_device: cuda
+export_legacy_format: false

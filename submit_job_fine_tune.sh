@@ -8,6 +8,7 @@
 #SBATCH --mem=64G
 #SBATCH --time=02:00:00          # Increased time for download + run
 #SBATCH --account=COMS037985
+#SBATCH --output=./logs/test_%j.out
 
 echo "--- ALL AVAILABLE GPU NODES ON BLUEPEBBLE ---"
 # Prints Node Name, GPU Type, Total GPUs, and Status (IDLE/ALLOCATED)

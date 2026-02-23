@@ -28,8 +28,9 @@ video_fps: 0.5
 video_maxlen: 32
 
 ### Training Hyperparameters
-output_dir: qwen2_5_vl_lora_indexing
+output_dir: qwen2_5_vl_lora_indexing_1
 per_device_train_batch_size: 1
+val_size: 0.1  # Use 10% of the training data for validation
 gradient_accumulation_steps: 8
 learning_rate: 1.0e-4
 num_train_epochs: 3.0
@@ -44,3 +45,5 @@ upcast_layernorm: true
 logging_steps: 10
 save_steps: 100
 plot_loss: true
+eval_strategy: steps # Or "epoch"
+eval_steps: 10             # Run the "test" every 10 training steps
