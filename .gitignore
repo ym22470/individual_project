@@ -2,11 +2,17 @@
 qwen2_5_vl_base_quantized/
 qwen2_5_vl_long_quantized/
 qwen2_5_vl_tags_quantized/
+qwen2_5_vl_lora_indexing/
+qwen2_5_vl_lora_indexing_1/
+/models/
+LlamaFactory/
+llamaboard_cache/
 
 # ── Videos ────────────────────────────────────────────────────────────────────
 eval_videos/
 permanent_videos/
 videos/
+/pixabay/
 *.mp4
 *.mov
 *.mkv
@@ -17,13 +23,17 @@ videos/
 benchmark_cache/chromadb_eval/
 video_search_db/
 
-# ── Python cache ──────────────────────────────────────────────────────────────
+# ── Large benchmark cache files ───────────────────────────────────────────────
+benchmark_cache/*.json
+benchmark_cache/*.out
+
+# ── Python / conda cache ──────────────────────────────────────────────────────
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+conda/
 
-# ── Large benchmark cache files ───────────────────────────────────────────────
-benchmark_cache/*.json
-benchmark_cache/*.out
+# ── Misc ──────────────────────────────────────────────────────────────────────
 .gradio/
+.cache/

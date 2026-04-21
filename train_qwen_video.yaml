@@ -1,0 +1,49 @@
+### Model setup
+model_name_or_path: Qwen/Qwen2.5-VL-3B-Instruct
+trust_remote_code: true
+
+### Training Method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all  # Targets all linear layers for best JSON formatting
+lora_rank: 16
+lora_alpha: 32
+quantization_bit: 4  # Use 4-bit to save VRAM
+
+### Dataset
+dataset: video_indexing_task
+template: qwen2_vl
+cutoff_len: 16384  
+max_length: 16384  
+max_samples: 1000
+packing: false
+overwrite_cache: true
+preprocessing_num_workers: 8
+
+### Video Settings
+# Qwen2.5-VL samples frames automatically. You can limit pixels to save memory.
+video_max_pixels: 100352
+video_fps: 0.5
+video_maxlen: 32
+
+### Training Hyperparameters
+output_dir: qwen2_5_vl_lora_indexing_1
+per_device_train_batch_size: 1
+val_size: 0.1  # Use 10% of the training data for validation
+gradient_accumulation_steps: 8
+learning_rate: 1.0e-4
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.1
+fp16: true
+bf16: false
+upcast_layernorm: true
+
+
+### Evaluation & Logging
+logging_steps: 10
+save_steps: 100
+plot_loss: true
+eval_strategy: steps # Or "epoch"
+eval_steps: 10             # Run the "test" every 10 training steps
