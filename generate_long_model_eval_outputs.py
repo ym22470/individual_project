@@ -7,7 +7,7 @@ from typing import Dict, List
 from qwen_vl_utils import process_vision_info
 from transformers import AutoProcessor, Qwen2_5_VLForConditionalGeneration
 
-os.environ["HF_TOKEN"] = "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"
+# HF_TOKEN should be set in your environment: export HF_TOKEN=<your_token>
 
 DEFAULT_LONG_MODEL_PATH = "/home/chongshengwang/naratix/qwen2_5_vl_long_quantized"
 DEFAULT_VIDEOS_DIR = "/home/chongshengwang/naratix/eval_videos"

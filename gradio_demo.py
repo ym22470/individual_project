@@ -8,7 +8,7 @@ from transformers import Qwen2_5_VLForConditionalGeneration
 from sentence_transformers import SentenceTransformer
 
 # --- 1. SETTINGS & PATHS ---
-os.environ["HF_TOKEN"] = "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"
+# HF_TOKEN should be set in your environment: export HF_TOKEN=<your_token>
 model_path = "/home/chongshengwang/naratix/qwen2_5_vl_quantized"
 storage_dir = "/home/chongshengwang/naratix/permanent_videos"
 os.makedirs(storage_dir, exist_ok=True)

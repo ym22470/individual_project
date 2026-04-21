@@ -2,7 +2,7 @@ from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
 from sentence_transformers import SentenceTransformer
 import os
-os.environ["HF_TOKEN"] = "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"
+# HF_TOKEN should be set in your environment: export HF_TOKEN=<your_token>
 # from sentence_transformers.util import cosine_similarity
 
 # Load your local quantized model
