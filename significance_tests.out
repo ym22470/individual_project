@@ -1,0 +1,122 @@
+Loading queries...
+Loading embedding model...
+
+Collecting scores for base_quantized...
+
+Collecting scores for long_quantized...
+
+Collecting scores for tags_quantized...
+
+===========================================================================
+SINGLE-TARGET  A) Long vs Base: Base (cosine)  vs  Long (cosine)
+===========================================================================
+Type        Metric      Base (cosine)  Long (cosine)           Δ     p-value  Sig
+---------------------------------------------------------------------------------
+  Exact     ndcg5            0.895       0.947      +0.053      0.0311  *
+  Exact     recall1          0.797       0.878      +0.081      0.1088  ns
+  Exact     mrr              0.872       0.930      +0.057      0.0672  ~
+  Paraphrasendcg5            0.804       0.935      +0.130      0.0006  ***
+  Paraphraserecall1          0.635       0.851      +0.216      0.0011  **
+  Paraphrasemrr              0.762       0.913      +0.150      0.0010  ***
+  Semantic  ndcg5            0.562       0.679      +0.118      0.0073  **
+  Semantic  recall1          0.351       0.527      +0.176      0.0016  **
+  Semantic  mrr              0.527       0.660      +0.133      0.0011  **
+  Motion    ndcg5            0.610       0.847      +0.237      0.0000  ***
+  Motion    recall1          0.392       0.703      +0.311      0.0001  ***
+  Motion    mrr              0.574       0.813      +0.239      0.0000  ***
+  Style     ndcg5            0.384       0.598      +0.214      0.0002  ***
+  Style     recall1          0.203       0.405      +0.203      0.0039  **
+  Style     mrr              0.366       0.561      +0.195      0.0002  ***
+  Overall   ndcg5            0.651       0.801      +0.150      0.0000  ***
+  Overall   recall1          0.476       0.673      +0.197      0.0000  ***
+  Overall   mrr              0.620       0.775      +0.155      0.0000  ***
+
+===========================================================================
+MULTI-TARGET  A) Long vs Base: Base (cosine)  vs  Long (cosine)
+===========================================================================
+Type        Metric      Base (cosine)  Long (cosine)           Δ     p-value  Sig
+---------------------------------------------------------------------------------
+  Exact     ndcg5            0.873       0.924      +0.051      0.0844  ~
+  Exact     map              0.838       0.888      +0.050      0.0746  ~
+  Paraphrasendcg5            0.803       0.876      +0.073      0.1960  ns
+  Paraphrasemap              0.760       0.827      +0.067      0.1332  ns
+  Semantic  ndcg5            0.494       0.573      +0.079      0.1359  ns
+  Semantic  map              0.486       0.559      +0.073      0.2145  ns
+  Motion    ndcg5            0.668       0.727      +0.059      0.3303  ns
+  Motion    map              0.637       0.702      +0.065      0.3958  ns
+  Style     ndcg5            0.336       0.339      +0.003      0.7547  ns
+  Style     map              0.339       0.319      -0.020      0.4980  ns
+  Overall   ndcg5            0.635       0.688      +0.053      0.0338  *
+  Overall   map              0.612       0.659      +0.047      0.0469  *
+
+===========================================================================
+SINGLE-TARGET  B) Long vs Tags: Tags (cosine)  vs  Long (cosine)
+===========================================================================
+Type        Metric      Tags (cosine)  Long (cosine)           Δ     p-value  Sig
+---------------------------------------------------------------------------------
+  Exact     ndcg5            0.909       0.947      +0.038      0.1895  ns
+  Exact     recall1          0.838       0.878      +0.041      0.3657  ns
+  Exact     mrr              0.892       0.930      +0.037      0.1896  ns
+  Paraphrasendcg5            0.800       0.935      +0.135      0.0003  ***
+  Paraphraserecall1          0.581       0.851      +0.270      0.0002  ***
+  Paraphrasemrr              0.750       0.913      +0.163      0.0005  ***
+  Semantic  ndcg5            0.548       0.679      +0.131      0.0043  **
+  Semantic  recall1          0.365       0.527      +0.162      0.0143  *
+  Semantic  mrr              0.520       0.660      +0.139      0.0036  **
+  Motion    ndcg5            0.733       0.847      +0.114      0.0047  **
+  Motion    recall1          0.554       0.703      +0.149      0.0343  *
+  Motion    mrr              0.687       0.813      +0.127      0.0067  **
+  Style     ndcg5            0.464       0.598      +0.133      0.0052  **
+  Style     recall1          0.324       0.405      +0.081      0.2008  ns
+  Style     mrr              0.453       0.561      +0.108      0.0130  *
+  Overall   ndcg5            0.691       0.801      +0.110      0.0000  ***
+  Overall   recall1          0.532       0.673      +0.141      0.0000  ***
+  Overall   mrr              0.660       0.775      +0.115      0.0000  ***
+
+===========================================================================
+SINGLE-TARGET  C) Long Hybrid vs Long Cosine: Long (cosine)  vs  Long (hybrid)
+===========================================================================
+Type        Metric      Long (cosine)  Long (hybrid)           Δ     p-value  Sig
+---------------------------------------------------------------------------------
+  Exact     ndcg5            0.947       0.973      +0.026      0.0260  *
+  Exact     recall1          0.878       0.932      +0.054      0.0455  *
+  Exact     mrr              0.930       0.964      +0.034      0.0260  *
+  Paraphrasendcg5            0.935       0.931      -0.003      0.6763  ns
+  Paraphraserecall1          0.851       0.851      +0.000      1.0000  ns
+  Paraphrasemrr              0.913       0.914      +0.001      0.8580  ns
+  Semantic  ndcg5            0.679       0.713      +0.034      0.2056  ns
+  Semantic  recall1          0.527       0.541      +0.014      0.7630  ns
+  Semantic  mrr              0.660       0.681      +0.021      0.4414  ns
+  Motion    ndcg5            0.847       0.882      +0.034      0.1047  ns
+  Motion    recall1          0.703       0.770      +0.068      0.0956  ~
+  Motion    mrr              0.813       0.860      +0.047      0.0410  *
+  Style     ndcg5            0.598       0.653      +0.055      0.1476  ns
+  Style     recall1          0.405       0.514      +0.108      0.0114  *
+  Style     mrr              0.561       0.623      +0.062      0.1895  ns
+  Overall   ndcg5            0.801       0.830      +0.029      0.0073  **
+  Overall   recall1          0.673       0.722      +0.049      0.0035  **
+  Overall   mrr              0.775       0.808      +0.033      0.0036  **
+
+===========================================================================
+MULTI-TARGET  C) Long Hybrid vs Long Cosine: Long (cosine)  vs  Long (hybrid)
+===========================================================================
+Type        Metric      Long (cosine)  Long (hybrid)           Δ     p-value  Sig
+---------------------------------------------------------------------------------
+  Exact     ndcg5            0.924       0.887      -0.037      0.1730  ns
+  Exact     map              0.888       0.873      -0.015      0.6121  ns
+  Paraphrasendcg5            0.876       0.674      -0.202      0.0013  **
+  Paraphrasemap              0.827       0.645      -0.183      0.0040  **
+  Semantic  ndcg5            0.573       0.648      +0.075      0.1518  ns
+  Semantic  map              0.559       0.618      +0.058      0.1089  ns
+  Motion    ndcg5            0.727       0.691      -0.036      0.5509  ns
+  Motion    map              0.702       0.635      -0.068      0.2183  ns
+  Style     ndcg5            0.339       0.452      +0.112      0.0900  ~
+  Style     map              0.319       0.416      +0.097      0.0696  ~
+  Overall   ndcg5            0.688       0.670      -0.018      0.5763  ns
+  Overall   map              0.659       0.637      -0.022      0.4327  ns
+Saved /home/chongshengwang/naratix/sig_A_long_vs_base_single.png
+Saved /home/chongshengwang/naratix/sig_A_long_vs_base_multi.png
+Saved /home/chongshengwang/naratix/sig_B_long_vs_tags_single.png
+Saved /home/chongshengwang/naratix/sig_C_hybrid_vs_cosine_single.png
+Saved /home/chongshengwang/naratix/sig_C_hybrid_vs_cosine_multi.png
+Saved text to /home/chongshengwang/naratix/significance_tests.out

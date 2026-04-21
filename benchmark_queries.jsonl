@@ -1,0 +1,370 @@
+{"query": "ocean waves gently lapping against wet sandy beach", "target_id": "beach.mp4", "type": "exact"}
+{"query": "white foam from small waves on the shoreline", "target_id": "beach.mp4", "type": "paraphrase"}
+{"query": "serene and dynamic interaction between sea and land", "target_id": "beach.mp4", "type": "semantic"}
+{"query": "larger ripples and splashes becoming visible in the water", "target_id": "beach.mp4", "type": "motion"}
+{"query": "detailed observation of a natural coastal environment", "target_id": "beach.mp4", "type": "style"}
+{"query": "winter scene at a beach during sunset with snow and ice", "target_id": "beach_2.mp4", "type": "exact"}
+{"query": "silhouette of a person walking along an icy shore at dusk", "target_id": "beach_2.mp4", "type": "paraphrase"}
+{"query": "calm and quiet winter coastal landscape", "target_id": "beach_2.mp4", "type": "semantic"}
+{"query": "sun casting long shadows across textured snow", "target_id": "beach_2.mp4", "type": "motion"}
+{"query": "tranquil winter sunset photography", "target_id": "beach_2.mp4", "type": "style"}
+{"query": "beach scene with hills in the background and Artlist watermark", "target_id": "beach_3.mp4", "type": "exact"}
+{"query": "undisturbed sand and gentle waves near rolling green hills", "target_id": "beach_3.mp4", "type": "paraphrase"}
+{"query": "expansive and peaceful coastal scenery", "target_id": "beach_3.mp4", "type": "semantic"}
+{"query": "water surface creating subtle ripples over time", "target_id": "beach_3.mp4", "type": "motion"}
+{"query": "steady wide-angle nature footage", "target_id": "beach_3.mp4", "type": "style"}
+{"query": "people walking and children playing on a sunny beach", "target_id": "beach_4.mp4", "type": "exact"}
+{"query": "leisurely beach activity under a clear blue sky", "target_id": "beach_4.mp4", "type": "paraphrase"}
+{"query": "peaceful summer day at the seaside with families", "target_id": "beach_4.mp4", "type": "semantic"}
+{"query": "individuals sitting under umbrellas while waves lap the shore", "target_id": "beach_4.mp4", "type": "motion"}
+{"query": "bright and stationary vacation scenery", "target_id": "beach_4.mp4", "type": "style"}
+{"query": "rocky beach with large cliffs silhouetted against a warm sky", "target_id": "beach_5.mp4", "type": "exact"}
+{"query": "waves hitting a rocky shoreline at sunrise or sunset", "target_id": "beach_5.mp4", "type": "paraphrase"}
+{"query": "tranquil and undisturbed dawn at a rugged coast", "target_id": "beach_5.mp4", "type": "semantic"}
+{"query": "ocean ripples reflecting warm light on wet sand", "target_id": "beach_5.mp4", "type": "motion"}
+{"query": "moody and atmospheric coastal landscape", "target_id": "beach_5.mp4", "type": "style"}
+{"query": "young boy in yellow swim trunks running towards the ocean", "target_id": "beach_child.mp4", "type": "exact"}
+{"query": "child sprinting across sand with boats anchored in background", "target_id": "beach_child.mp4", "type": "paraphrase"}
+{"query": "joyful summer leisure at the beach under a cloudy sky", "target_id": "beach_child.mp4", "type": "semantic"}
+{"query": "camera following a child's movement across the shoreline", "target_id": "beach_child.mp4", "type": "motion"}
+{"query": "softly glowing candid seaside footage", "target_id": "beach_child.mp4", "type": "style"}
+{"query": "close-up of a bicycle wheel and spokes in motion", "target_id": "bicycles.mp4", "type": "exact"}
+{"query": "rotating bike tire with Alldist logo appearing", "target_id": "bicycles.mp4", "type": "paraphrase"}
+{"query": "mechanical precision and fluidity of cycling", "target_id": "bicycles.mp4", "type": "semantic"}
+{"query": "bicycle hub and spokes spinning against a blurred background", "target_id": "bicycles.mp4", "type": "motion"}
+{"query": "minimalist mechanical focus with soft natural light", "target_id": "bicycles.mp4", "type": "style"}
+{"query": "person riding a vintage bicycle on an urban street", "target_id": "bicycles_human_1.mp4", "type": "exact"}
+{"query": "close-up of feet pedaling a bike past palm trees", "target_id": "bicycles_human_1.mp4", "type": "paraphrase"}
+{"query": "simplicity and elegance of morning cycling", "target_id": "bicycles_human_1.mp4", "type": "semantic"}
+{"query": "rhythmic motion of turning wheels on a city road", "target_id": "bicycles_human_1.mp4", "type": "motion"}
+{"query": "vintage-style urban travel aesthetic", "target_id": "bicycles_human_1.mp4", "type": "style"}
+{"query": "cyclist with white helmet and sunglasses in an industrial facility", "target_id": "bicycles_human_2.mp4", "type": "exact"}
+{"query": "male cyclist on a road bike performing an indoor workout", "target_id": "bicycles_human_2.mp4", "type": "paraphrase"}
+{"query": "intense concentration and physical exertion during training", "target_id": "bicycles_human_2.mp4", "type": "semantic"}
+{"query": "feet pedaling vigorously on a stationary cycle", "target_id": "bicycles_human_2.mp4", "type": "motion"}
+{"query": "high-intensity fitness cinematography", "target_id": "bicycles_human_2.mp4", "type": "style"}
+{"query": "busy urban street with blue double-decker bus and taxis at dusk", "target_id": "bicycles_human_car.mp4", "type": "exact"}
+{"query": "city traffic with motorcycles and pedestrians near a Paytm sign", "target_id": "bicycles_human_car.mp4", "type": "paraphrase"}
+{"query": "dynamic and bustling city atmosphere at evening", "target_id": "bicycles_human_car.mp4", "type": "semantic"}
+{"query": "vehicles and cyclists moving through a dimly lit street", "target_id": "bicycles_human_car.mp4", "type": "motion"}
+{"query": "steady observational city street photography", "target_id": "bicycles_human_car.mp4", "type": "style"}
+{"query": "cyclist in a dark outfit riding on a rural two-lane road", "target_id": "bicycles_human_fast_3.mp4", "type": "exact"}
+{"query": "person in white helmet biking through lush greenery", "target_id": "bicycles_human_fast_3.mp4", "type": "paraphrase"}
+{"query": "peaceful travel and leisure ride in a scenic landscape", "target_id": "bicycles_human_fast_3.mp4", "type": "semantic"}
+{"query": "camera following a cyclist pedaling at a steady pace", "target_id": "bicycles_human_fast_3.mp4", "type": "motion"}
+{"query": "continuous trailing shot of a rural journey", "target_id": "bicycles_human_fast_3.mp4", "type": "style"}
+{"query": "mountain biker with yellow helmet descending a forest trail", "target_id": "bicycles_human_fast_4.mp4", "type": "exact"}
+{"query": "cyclist navigating a winding wooded path with motion blur", "target_id": "bicycles_human_fast_4.mp4", "type": "paraphrase"}
+{"query": "thrill and agility of off-road mountain biking", "target_id": "bicycles_human_fast_4.mp4", "type": "semantic"}
+{"query": "wheels spinning rapidly through uneven sunlit terrain", "target_id": "bicycles_human_fast_4.mp4", "type": "motion"}
+{"query": "immersive high-energy outdoor action shot", "target_id": "bicycles_human_fast_4.mp4", "type": "style"}
+{"query": "white truck traveling on a multi-lane highway near a guardrail", "target_id": "cars_2.mp4", "type": "exact"}
+{"query": "semi-truck moving through a grassy rural landscape", "target_id": "cars_2.mp4", "type": "paraphrase"}
+{"query": "steady transportation on a sunny highway", "target_id": "cars_2.mp4", "type": "semantic"}
+{"query": "vehicle progressing past traffic cones and green bushes", "target_id": "cars_2.mp4", "type": "motion"}
+{"query": "fixed perspective of commercial highway travel", "target_id": "cars_2.mp4", "type": "style"}
+{"query": "vintage red and white sports car on a winding tree-lined road", "target_id": "cars_3.mp4", "type": "exact"}
+{"query": "classic car driving through curves at late afternoon", "target_id": "cars_3.mp4", "type": "paraphrase"}
+{"query": "serene and picturesque drive in a classic vehicle", "target_id": "cars_3.mp4", "type": "semantic"}
+{"query": "glowing taillights navigating a dark asphalt forest road", "target_id": "cars_3.mp4", "type": "motion"}
+{"query": "warm golden-hour automotive cinematography", "target_id": "cars_3.mp4", "type": "style"}
+{"query": "vintage car with headlights on driving during golden hour", "target_id": "cars_4.mp4", "type": "exact"}
+{"query": "automobile traveling through tall grass at sunset", "target_id": "cars_4.mp4", "type": "paraphrase"}
+{"query": "solitude and peace of a countryside drive at dusk", "target_id": "cars_4.mp4", "type": "semantic"}
+{"query": "sun dipping lower as a car moves forward on a rural road", "target_id": "cars_4.mp4", "type": "motion"}
+{"query": "dramatic play of light and shadow in a landscape", "target_id": "cars_4.mp4", "type": "style"}
+{"query": "red racing car making a sharp turn on a race track", "target_id": "cars_5.mp4", "type": "exact"}
+{"query": "speedy vehicle navigating a curvy track at dawn", "target_id": "cars_5.mp4", "type": "paraphrase"}
+{"query": "high-speed racing action against a serene landscape", "target_id": "cars_5.mp4", "type": "semantic"}
+{"query": "car's sleek body moving past distant power lines", "target_id": "cars_5.mp4", "type": "motion"}
+{"query": "smooth tracking shot of professional racing", "target_id": "cars_5.mp4", "type": "style"}
+{"query": "vintage red sports car driving at high speed on a wet road", "target_id": "cars_fast_1.mp4", "type": "exact"}
+{"query": "classic vehicle with motion blur headlights at night", "target_id": "cars_fast_1.mp4", "type": "paraphrase"}
+{"query": "intense speed and motion in a dark setting", "target_id": "cars_fast_1.mp4", "type": "semantic"}
+{"query": "car moving forward as the background becomes indistinct", "target_id": "cars_fast_1.mp4", "type": "motion"}
+{"query": "dramatic high-speed night driving aesthetic", "target_id": "cars_fast_1.mp4", "type": "style"}
+{"query": "black cat sitting on a rope surface during sunset", "target_id": "cat_alone_1.mp4", "type": "exact"}
+{"query": "cat in profile silhouetted against a golden glow", "target_id": "cat_alone_1.mp4", "type": "paraphrase"}
+{"query": "peaceful and contemplative animal scene", "target_id": "cat_alone_1.mp4", "type": "semantic"}
+{"query": "cat turning its head to reveal its face", "target_id": "cat_alone_1.mp4", "type": "motion"}
+{"query": "atmospheric silhouette of a feline at dawn", "target_id": "cat_alone_1.mp4", "type": "style"}
+{"query": "black and white cat with yellow eyes on a beige cushion", "target_id": "cat_alone_2.mp4", "type": "exact"}
+{"query": "close-up of a focused cat sitting on soft furniture", "target_id": "cat_alone_2.mp4", "type": "paraphrase"}
+{"query": "calm and curious feline stillness", "target_id": "cat_alone_2.mp4", "type": "semantic"}
+{"query": "cat shifting its head and eye direction slightly", "target_id": "cat_alone_2.mp4", "type": "motion"}
+{"query": "shallow depth of field pet portrait", "target_id": "cat_alone_2.mp4", "type": "style"}
+{"query": "ginger cat descending a carpeted staircase", "target_id": "cat_alone_3.mp4", "type": "exact"}
+{"query": "orange cat walking down stairs toward a window", "target_id": "cat_alone_3.mp4", "type": "paraphrase"}
+{"query": "natural grace of a feline moving through a home", "target_id": "cat_alone_3.mp4", "type": "semantic"}
+{"query": "cat pausing briefly before continuing down the steps", "target_id": "cat_alone_3.mp4", "type": "motion"}
+{"query": "candid indoor pet following shot", "target_id": "cat_alone_3.mp4", "type": "style"}
+{"query": "black cat with green eyes lying on a light blanket", "target_id": "cat_alone_4.mp4", "type": "exact"}
+{"query": "feline resting and looking at the camera on a soft surface", "target_id": "cat_alone_4.mp4", "type": "paraphrase"}
+{"query": "serene observation of a relaxed pet", "target_id": "cat_alone_4.mp4", "type": "semantic"}
+{"query": "cat's ears moving in response to an unseen stimulus", "target_id": "cat_alone_4.mp4", "type": "motion"}
+{"query": "intimate close-up of a cat's face", "target_id": "cat_alone_4.mp4", "type": "style"}
+{"query": "gray tabby cat reaching into a red bowl on wooden floor", "target_id": "cat_eating.mp4", "type": "exact"}
+{"query": "kitten standing on hind legs to play with a plastic bowl", "target_id": "cat_eating.mp4", "type": "paraphrase"}
+{"query": "playful domestic behavior in a bright living room", "target_id": "cat_eating.mp4", "type": "semantic"}
+{"query": "cat transitioning from standing to sitting while playing", "target_id": "cat_eating.mp4", "type": "motion"}
+{"query": "well-lit modern home pet footage", "target_id": "cat_eating.mp4", "type": "style"}
+{"query": "three young boys laughing and hugging outdoors", "target_id": "children.mp4", "type": "exact"}
+{"query": "friends in a garden with arms around each other's shoulders", "target_id": "children.mp4", "type": "paraphrase"}
+{"query": "joyful and carefree childhood camaraderie", "target_id": "children.mp4", "type": "semantic"}
+{"query": "boys' expressions shifting from smiling to laughing", "target_id": "children.mp4", "type": "motion"}
+{"query": "warm and cheerful slice-of-life cinematography", "target_id": "children.mp4", "type": "style"}
+{"query": "young blonde girl in orange top looking at camera", "target_id": "children_2.mp4", "type": "exact"}
+{"query": "child with a ponytail against a dark background", "target_id": "children_2.mp4", "type": "paraphrase"}
+{"query": "calm and steady child portrait", "target_id": "children_2.mp4", "type": "semantic"}
+{"query": "soft lighting highlighting a child's neutral expression", "target_id": "children_2.mp4", "type": "motion"}
+{"query": "studio-style minimalist child photography", "target_id": "children_2.mp4", "type": "style"}
+{"query": "two children holding a small toy in a flower garden", "target_id": "children_3.mp4", "type": "exact"}
+{"query": "boy with glasses and girl interacting near foliage", "target_id": "children_3.mp4", "type": "paraphrase"}
+{"query": "serene outdoor discovery and play", "target_id": "children_3.mp4", "type": "semantic"}
+{"query": "camera focus shifting from children to blurred flowers", "target_id": "children_3.mp4", "type": "motion"}
+{"query": "soft-focus natural garden aesthetic", "target_id": "children_3.mp4", "type": "style"}
+{"query": "soccer ball being kicked across a paved urban surface", "target_id": "children_playing_football_2.mp4", "type": "exact"}
+{"query": "legs and feet of players in a casual street soccer game", "target_id": "children_playing_football_2.mp4", "type": "paraphrase"}
+{"query": "relaxed and informal urban recreation", "target_id": "children_playing_football_2.mp4", "type": "semantic"}
+{"query": "ball rolling past graffiti-covered walls on a sunny day", "target_id": "children_playing_football_2.mp4", "type": "motion"}
+{"query": "low-angle dynamic street sports footage", "target_id": "children_playing_football_2.mp4", "type": "style"}
+{"query": "chef in white uniform stirring a large pot in a kitchen", "target_id": "cooking_1.mp4", "type": "exact"}
+{"query": "close-up of hands using tongs and spoons to mix ingredients", "target_id": "cooking_1.mp4", "type": "paraphrase"}
+{"query": "professional culinary expertise and methodical preparation", "target_id": "cooking_1.mp4", "type": "semantic"}
+{"query": "skillful manipulation of a spoon in metallic cookware", "target_id": "cooking_1.mp4", "type": "motion"}
+{"query": "bright and clean high-end kitchen aesthetic", "target_id": "cooking_1.mp4", "type": "style"}
+{"query": "wooden spoon stirring vegetables and meat in a black pot", "target_id": "cooking_2.mp4", "type": "exact"}
+{"query": "close-up of food being cooked over a flame in a pan", "target_id": "cooking_2.mp4", "type": "paraphrase"}
+{"query": "focused and methodical cooking process", "target_id": "cooking_2.mp4", "type": "semantic"}
+{"query": "consistent stirring motion in a well-lit pot", "target_id": "cooking_2.mp4", "type": "motion"}
+{"query": "warm and concentrated culinary close-up", "target_id": "cooking_2.mp4", "type": "style"}
+{"query": "seasoning being sprinkled onto meat on a grill grate", "target_id": "cooking_3.mp4", "type": "exact"}
+{"query": "steak being grilled over an open flame with salt and pepper", "target_id": "cooking_3.mp4", "type": "paraphrase"}
+{"query": "detailed outdoor grilling and food preparation", "target_id": "cooking_3.mp4", "type": "semantic"}
+{"query": "steam rising from hot meat as spices fall", "target_id": "cooking_3.mp4", "type": "motion"}
+{"query": "sensory-focused warm lighting food shot", "target_id": "cooking_3.mp4", "type": "style"}
+{"query": "hands chopping fresh green vegetables on a wooden board", "target_id": "cooking_4.mp4", "type": "exact"}
+{"query": "knife slicing through leafy greens in a kitchen", "target_id": "cooking_4.mp4", "type": "paraphrase"}
+{"query": "concentration and artistry in meal prep", "target_id": "cooking_4.mp4", "type": "semantic"}
+{"query": "precise knife movements creating uniform vegetable pieces", "target_id": "cooking_4.mp4", "type": "motion"}
+{"query": "low-angle dynamic food preparation style", "target_id": "cooking_4.mp4", "type": "style"}
+{"query": "tofu cubes and spinach being stirred in a cast-iron skillet", "target_id": "cooking_5.mp4", "type": "exact"}
+{"query": "hand mixing an orange-red curry sauce with a wooden spoon", "target_id": "cooking_5.mp4", "type": "paraphrase"}
+{"query": "vibrant and aromatic culinary activity", "target_id": "cooking_5.mp4", "type": "semantic"}
+{"query": "sauce swirling as ingredients shift within the pan", "target_id": "cooking_5.mp4", "type": "motion"}
+{"query": "steam-filled warm natural light food footage", "target_id": "cooking_5.mp4", "type": "style"}
+{"query": "group of deer running across a misty grassy field", "target_id": "deer_1.mp4", "type": "exact"}
+{"query": "deer moving through thick fog at dawn or dusk", "target_id": "deer_1.mp4", "type": "paraphrase"}
+{"query": "peaceful solitude and natural beauty of wildlife", "target_id": "deer_1.mp4", "type": "semantic"}
+{"query": "animals leaping through hazy landscapes with long shadows", "target_id": "deer_1.mp4", "type": "motion"}
+{"query": "soft diffused golden-hued nature cinematography", "target_id": "deer_1.mp4", "type": "style"}
+{"query": "two deer standing near fallen trees in a green forest", "target_id": "deer_2.mp4", "type": "exact"}
+{"query": "wildlife interacting among logs and dense foliage", "target_id": "deer_2.mp4", "type": "paraphrase"}
+{"query": "quiet coexistence of animals in their natural habitat", "target_id": "deer_2.mp4", "type": "semantic"}
+{"query": "deer appearing from behind a log to approach another", "target_id": "deer_2.mp4", "type": "motion"}
+{"query": "steady observational wildlife footage", "target_id": "deer_2.mp4", "type": "style"}
+{"query": "two male red deer grazing in a golden field", "target_id": "deer_3.mp4", "type": "exact"}
+{"query": "stag with large antlers standing up in soft lighting", "target_id": "deer_3.mp4", "type": "paraphrase"}
+{"query": "tranquil but assertive natural animal behavior", "target_id": "deer_3.mp4", "type": "semantic"}
+{"query": "deer shifting posture against a blurred backdrop", "target_id": "deer_3.mp4", "type": "motion"}
+{"query": "dramatic silhouette effect nature shot", "target_id": "deer_3.mp4", "type": "style"}
+{"query": "stag with large antlers walking through tall golden grass", "target_id": "deer_4.mp4", "type": "exact"}
+{"query": "spotted doe and stag moving in a sunny field", "target_id": "deer_4.mp4", "type": "paraphrase"}
+{"query": "beauty and tranquility of wild deer at sunset", "target_id": "deer_4.mp4", "type": "semantic"}
+{"query": "deer legs and hooves moving gracefully in mid-step", "target_id": "deer_4.mp4", "type": "motion"}
+{"query": "close-up wildlife photography with warm light", "target_id": "deer_4.mp4", "type": "style"}
+{"query": "young deer with white spots grazing in an arid environment", "target_id": "deer_5.mp4", "type": "exact"}
+{"query": "deer herd standing in a sandy habitat with long shadows", "target_id": "deer_5.mp4", "type": "paraphrase"}
+{"query": "peaceful life of animals in a desert-like setting", "target_id": "deer_5.mp4", "type": "semantic"}
+{"query": "deer bending down to eat while ears perk up attentively", "target_id": "deer_5.mp4", "type": "motion"}
+{"query": "calm and community-focused animal footage", "target_id": "deer_5.mp4", "type": "style"}
+{"query": "light-colored dog lying on a patterned rug in a living room", "target_id": "dog_alone_1.mp4", "type": "exact"}
+{"query": "pet with erect ears resting near a yellow sofa and guitar", "target_id": "dog_alone_1.mp4", "type": "paraphrase"}
+{"query": "quiet and relaxed indoor domestic atmosphere", "target_id": "dog_alone_1.mp4", "type": "semantic"}
+{"query": "dog occasionally shifting position on a cozy floor", "target_id": "dog_alone_1.mp4", "type": "motion"}
+{"query": "low-angle warm natural light pet shot", "target_id": "dog_alone_1.mp4", "type": "style"}
+{"query": "light brown dog sleeping on its back on a patterned blanket", "target_id": "dog_alone_2.mp4", "type": "exact"}
+{"query": "close-up of a dog's face and black nose while resting", "target_id": "dog_alone_2.mp4", "type": "paraphrase"}
+{"query": "serene and peaceful rest of a domestic animal", "target_id": "dog_alone_2.mp4", "type": "semantic"}
+{"query": "dog shifting slightly during deep sleep on a bed", "target_id": "dog_alone_2.mp4", "type": "motion"}
+{"query": "tranquil soft-focus animal photography", "target_id": "dog_alone_2.mp4", "type": "style"}
+{"query": "small fluffy dog with brown and white fur wearing a bow collar", "target_id": "dog_alone_3.mp4", "type": "exact"}
+{"query": "attentive dog looking at camera against a dark background", "target_id": "dog_alone_3.mp4", "type": "paraphrase"}
+{"query": "alertness and curiosity of a small pet", "target_id": "dog_alone_3.mp4", "type": "semantic"}
+{"query": "dog's eyes wide open and ears perked in stillness", "target_id": "dog_alone_3.mp4", "type": "motion"}
+{"query": "simple and focused studio-style animal portrait", "target_id": "dog_alone_3.mp4", "type": "style"}
+{"query": "light brown dog sitting and then curling up on a beige sofa", "target_id": "dog_alone_4.mp4", "type": "exact"}
+{"query": "attentive pet transitioning to a relaxed posture on a couch", "target_id": "dog_alone_4.mp4", "type": "paraphrase"}
+{"query": "content and calm demeanor in a domestic setting", "target_id": "dog_alone_4.mp4", "type": "semantic"}
+{"query": "dog shifting into a more comfortable seated position", "target_id": "dog_alone_4.mp4", "type": "motion"}
+{"query": "steady focus on a cozy home pet moment", "target_id": "dog_alone_4.mp4", "type": "style"}
+{"query": "French Bulldog standing on hind legs to reach a Corgi", "target_id": "dog_and_cat.mp4", "type": "exact"}
+{"query": "black and white dog playing with a light-colored dog on a carpet", "target_id": "dog_and_cat.mp4", "type": "paraphrase"}
+{"query": "playful and curious interaction between two dogs", "target_id": "dog_and_cat.mp4", "type": "semantic"}
+{"query": "paws touching a dog's face during an indoor play session", "target_id": "dog_and_cat.mp4", "type": "motion"}
+{"query": "intimate and warm domestic pet footage", "target_id": "dog_and_cat.mp4", "type": "style"}
+{"query": "white fluffy dog and Siamese cat playing on a carpet", "target_id": "dog_and_cat_2.mp4", "type": "exact"}
+{"query": "dog panting while a cat approaches to interact", "target_id": "dog_and_cat_2.mp4", "type": "paraphrase"}
+{"query": "gentle companionship and playful banter between pets", "target_id": "dog_and_cat_2.mp4", "type": "semantic"}
+{"query": "cat moving closer to a dog to engage in physical play", "target_id": "dog_and_cat_2.mp4", "type": "motion"}
+{"query": "soft and warm-lit indoor pet scenery", "target_id": "dog_and_cat_2.mp4", "type": "style"}
+{"query": "woman with two cats on a wooden deck overlooking hills", "target_id": "dog_cat_human_1.mp4", "type": "exact"}
+{"query": "person in dark hoodie interacting with fluffy cats outdoors", "target_id": "dog_cat_human_1.mp4", "type": "paraphrase"}
+{"query": "serene moment of companionship in a pastoral setting", "target_id": "dog_cat_human_1.mp4", "type": "semantic"}
+{"query": "cats sitting attentively on a deck under a cloudy sky", "target_id": "dog_cat_human_1.mp4", "type": "motion"}
+{"query": "stationary tranquil lifestyle cinematography", "target_id": "dog_cat_human_1.mp4", "type": "style"}
+{"query": "tricolor dog on a lap with a man holding a cat in background", "target_id": "dog_cat_human_2.mp4", "type": "exact"}
+{"query": "people relaxing with their pets on a colorful striped rug", "target_id": "dog_cat_human_2.mp4", "type": "paraphrase"}
+{"query": "warm and relaxed indoor family and pet atmosphere", "target_id": "dog_cat_human_2.mp4", "type": "semantic"}
+{"query": "dog looking around while a man pets a gray cat", "target_id": "dog_cat_human_2.mp4", "type": "motion"}
+{"query": "intimate indoor multi-pet close-up", "target_id": "dog_cat_human_2.mp4", "type": "style"}
+{"query": "man in white t-shirt petting a dog on its back on a couch", "target_id": "dog_cat_human_3.mp4", "type": "exact"}
+{"query": "owner interacting with dog and cat in a modern living room", "target_id": "dog_cat_human_3.mp4", "type": "paraphrase"}
+{"query": "affectionate bond and domestic tranquility", "target_id": "dog_cat_human_3.mp4", "type": "semantic"}
+{"query": "cat sitting up and looking around as dog relaxes on sofa", "target_id": "dog_cat_human_3.mp4", "type": "motion"}
+{"query": "clean and organized lifestyle home video", "target_id": "dog_cat_human_3.mp4", "type": "style"}
+{"query": "close-up of a dog's nose sniffing a bowl of food", "target_id": "dog_eating.mp4", "type": "exact"}
+{"query": "dog licking brown food in a bowl with blurred background", "target_id": "dog_eating.mp4", "type": "paraphrase"}
+{"query": "quiet curiosity and contentment during mealtime", "target_id": "dog_eating.mp4", "type": "semantic"}
+{"query": "deliberate mouth and nose movements as animal eats", "target_id": "dog_eating.mp4", "type": "motion"}
+{"query": "intimate sensory pet photography", "target_id": "dog_eating.mp4", "type": "style"}
+{"query": "soccer ball being kicked into the air at a night match", "target_id": "football.mp4", "type": "exact"}
+{"query": "ball ascending and landing on grass on a well-lit field", "target_id": "football.mp4", "type": "paraphrase"}
+{"query": "quiet intensity of a nighttime soccer game", "target_id": "football.mp4", "type": "semantic"}
+{"query": "camera shifting to follow the trajectory of a kicked ball", "target_id": "football.mp4", "type": "motion"}
+{"query": "dynamic sports action against illuminated background", "target_id": "football.mp4", "type": "style"}
+{"query": "close-up of a hand holding a black basketball", "target_id": "holding_basketball.mp4", "type": "exact"}
+{"query": "hand gripping a dark spherical object in low light", "target_id": "holding_basketball.mp4", "type": "paraphrase"}
+{"query": "quiet anticipation and somber contemplation", "target_id": "holding_basketball.mp4", "type": "semantic"}
+{"query": "hand remaining in a state of stillness against a dark backdrop", "target_id": "holding_basketball.mp4", "type": "motion"}
+{"query": "minimalist and introspective artistic shot", "target_id": "holding_basketball.mp4", "type": "style"}
+{"query": "hands assembling and taking a bite of a large burger", "target_id": "human_eating.mp4", "type": "exact"}
+{"query": "placing lettuce and tomato in a bun before eating", "target_id": "human_eating.mp4", "type": "paraphrase"}
+{"query": "enjoyment of an appetizing meal in a casual setting", "target_id": "human_eating.mp4", "type": "semantic"}
+{"query": "fingers holding a completed burger for a first bite", "target_id": "human_eating.mp4", "type": "motion"}
+{"query": "vibrant and inviting food close-up", "target_id": "human_eating.mp4", "type": "style"}
+{"query": "person with teal hair and nose ring eating with a fork", "target_id": "human_eating_2.mp4", "type": "exact"}
+{"query": "individual in floral shirt bringing food to their mouth", "target_id": "human_eating_2.mp4", "type": "paraphrase"}
+{"query": "calm and focused meal in a quiet environment", "target_id": "human_eating_2.mp4", "type": "semantic"}
+{"query": "camera focusing on facial textures as person chews", "target_id": "human_eating_2.mp4", "type": "motion"}
+{"query": "soft natural light facial portrait", "target_id": "human_eating_2.mp4", "type": "style"}
+{"query": "man's face taking a bite of a sandwich or croissant", "target_id": "human_eating_3.mp4", "type": "exact"}
+{"query": "close-up of enjoyment and satisfaction during a meal", "target_id": "human_eating_3.mp4", "type": "paraphrase"}
+{"query": "sensory experience of eating a tasty snack", "target_id": "human_eating_3.mp4", "type": "semantic"}
+{"query": "detailed movement of lips as a man chews", "target_id": "human_eating_3.mp4", "type": "motion"}
+{"query": "intimate and warm facial close-up", "target_id": "human_eating_3.mp4", "type": "style"}
+{"query": "person with teal hair applying foundation with a brush", "target_id": "human_eating_4.mp4", "type": "exact"}
+{"query": "close-up of makeup application against a pink background", "target_id": "human_eating_4.mp4", "type": "paraphrase"}
+{"query": "personal care and attention to detail", "target_id": "human_eating_4.mp4", "type": "semantic"}
+{"query": "brush strokes on skin during a beauty routine", "target_id": "human_eating_4.mp4", "type": "motion"}
+{"query": "even lighting cosmetic tutorial style", "target_id": "human_eating_4.mp4", "type": "style"}
+{"query": "elevated view of night traffic on a wide multi-lane road", "target_id": "night_traffic_cars_fast.mp4", "type": "exact"}
+{"query": "bustling urban night scene with illuminated city buildings", "target_id": "night_traffic_cars_fast.mp4", "type": "paraphrase"}
+{"query": "vibrant active city center at nighttime", "target_id": "night_traffic_cars_fast.mp4", "type": "semantic"}
+{"query": "interplay of light and shadow as cars move through city", "target_id": "night_traffic_cars_fast.mp4", "type": "motion"}
+{"query": "consistent elevated viewpoint urban photography", "target_id": "night_traffic_cars_fast.mp4", "type": "style"}
+{"query": "driver's perspective of streaks of light on a highway at night", "target_id": "night_traffic_cars_fast_2.mp4", "type": "exact"}
+{"query": "motion blur of city streetlights from a moving vehicle", "target_id": "night_traffic_cars_fast_2.mp4", "type": "paraphrase"}
+{"query": "fluidity of travel through an urban landscape", "target_id": "night_traffic_cars_fast_2.mp4", "type": "semantic"}
+{"query": "camera tilting as car speeds toward an industrial setting", "target_id": "night_traffic_cars_fast_2.mp4", "type": "motion"}
+{"query": "dynamic high-speed night travel aesthetic", "target_id": "night_traffic_cars_fast_2.mp4", "type": "style"}
+{"query": "time-lapse of traffic lights creating long streaks on highway", "target_id": "night_traffic_cars_fast_3.mp4", "type": "exact"}
+{"query": "high-speed vehicle lights on a multi-lane road at night", "target_id": "night_traffic_cars_fast_3.mp4", "type": "paraphrase"}
+{"query": "busy urban nighttime transportation infrastructure", "target_id": "night_traffic_cars_fast_3.mp4", "type": "semantic"}
+{"query": "continuous flow of vehicles past traffic signals and signs", "target_id": "night_traffic_cars_fast_3.mp4", "type": "motion"}
+{"query": "elevated stationary urban light-trail shot", "target_id": "night_traffic_cars_fast_3.mp4", "type": "style"}
+{"query": "vantage point of a long illuminated street with high-rise buildings", "target_id": "night_traffic_cars_fast_4.mp4", "type": "exact"}
+{"query": "city skyline of skyscrapers with red lights under dark sky", "target_id": "night_traffic_cars_fast_4.mp4", "type": "paraphrase"}
+{"query": "continuous movement and urban energy after dark", "target_id": "night_traffic_cars_fast_4.mp4", "type": "semantic"}
+{"query": "vehicle headlights creating streaks of light along city road", "target_id": "night_traffic_cars_fast_4.mp4", "type": "motion"}
+{"query": "stationary wide-angle night cityscape", "target_id": "night_traffic_cars_fast_4.mp4", "type": "style"}
+{"query": "city skyscrapers at night with busy highway traffic", "target_id": "night_traffic_cars_fast_5.mp4", "type": "exact"}
+{"query": "illuminated metropolis skyline with moving vehicle lights", "target_id": "night_traffic_cars_fast_5.mp4", "type": "paraphrase"}
+{"query": "quiet activity within a bustling urban environment", "target_id": "night_traffic_cars_fast_5.mp4", "type": "semantic"}
+{"query": "dynamic light and shadow interplay on city roads", "target_id": "night_traffic_cars_fast_5.mp4", "type": "motion"}
+{"query": "static grandeur city night photography", "target_id": "night_traffic_cars_fast_5.mp4", "type": "style"}
+{"query": "boy bouncing and jumping on a trampoline in a backyard", "target_id": "playing_basketball.mp4", "type": "exact"}
+{"query": "child playing outdoors near a fence and residential houses", "target_id": "playing_basketball.mp4", "type": "paraphrase"}
+{"query": "childhood playfulness and joy on a sunny day", "target_id": "playing_basketball.mp4", "type": "semantic"}
+{"query": "boy's silhouette jumping against a bright clear sky", "target_id": "playing_basketball.mp4", "type": "motion"}
+{"query": "energetic and abstract outdoor action footage", "target_id": "playing_basketball.mp4", "type": "style"}
+{"query": "soccer player in white uniform controlling ball on grass", "target_id": "playing_football.mp4", "type": "exact"}
+{"query": "close-up of cleats and socks dribbling a ball at sunset", "target_id": "playing_football.mp4", "type": "paraphrase"}
+{"query": "focused athleticism and intensity of sports practice", "target_id": "playing_football.mp4", "type": "semantic"}
+{"query": "skillful ball control passing from one foot to another", "target_id": "playing_football.mp4", "type": "motion"}
+{"query": "low-angle warm light sports training shot", "target_id": "playing_football.mp4", "type": "style"}
+{"query": "vibrant orange sunset over a calm body of water", "target_id": "sunset.mp4", "type": "exact"}
+{"query": "sun gradually descending towards the horizon at dusk", "target_id": "sunset.mp4", "type": "paraphrase"}
+{"query": "tranquil transition from day to evening", "target_id": "sunset.mp4", "type": "semantic"}
+{"query": "sun shifting and reflecting on shimmering water surface", "target_id": "sunset.mp4", "type": "motion"}
+{"query": "steady fixed perspective nature sunset", "target_id": "sunset.mp4", "type": "style"}
+{"query": "silhouettes of people at a coastal sunset with wind turbines", "target_id": "sunset_2.mp4", "type": "exact"}
+{"query": "couple embracing near water's edge under an orange sky", "target_id": "sunset_2.mp4", "type": "paraphrase"}
+{"query": "calm reflection and quiet companionship at dusk", "target_id": "sunset_2.mp4", "type": "semantic"}
+{"query": "group figures becoming more defined as they walk on beach", "target_id": "sunset_2.mp4", "type": "motion"}
+{"query": "reflective and peaceful outdoor cinematography", "target_id": "sunset_2.mp4", "type": "style"}
+{"query": "sunset with birds flying near horizontal power lines", "target_id": "sunset_3.mp4", "type": "exact"}
+{"query": "reddish glow sky with numerous birds silhouetted in flight", "target_id": "sunset_3.mp4", "type": "paraphrase"}
+{"query": "calm and peaceful natural beauty of dusk", "target_id": "sunset_3.mp4", "type": "semantic"}
+{"query": "light diminishing as sun sets behind silhouettes", "target_id": "sunset_3.mp4", "type": "motion"}
+{"query": "minimalist stationary sunset landscape", "target_id": "sunset_3.mp4", "type": "style"}
+{"query": "sun setting behind dark clouds over calm water", "target_id": "sunset_4.mp4", "type": "exact"}
+{"query": "vibrant orange and deep blue sky reflecting on sea surface", "target_id": "sunset_4.mp4", "type": "paraphrase"}
+{"query": "quiet intensity and anticipation of night", "target_id": "sunset_4.mp4", "type": "semantic"}
+{"query": "sun dipping lower as reflection mirrors sky colors", "target_id": "sunset_4.mp4", "type": "motion"}
+{"query": "steady peaceful transition photography", "target_id": "sunset_4.mp4", "type": "style"}
+{"query": "sunset over water with movement of grasses in foreground", "target_id": "sunset_5.mp4", "type": "exact"}
+{"query": "sky transitioning from deep red to soft orange over water", "target_id": "sunset_5.mp4", "type": "paraphrase"}
+{"query": "peaceful solitude in a vast natural landscape", "target_id": "sunset_5.mp4", "type": "semantic"}
+{"query": "lighting subtly shifting across water and sky", "target_id": "sunset_5.mp4", "type": "motion"}
+{"query": "stationary wide nature sunset with Artlist logo", "target_id": "sunset_5.mp4", "type": "style"}
+{"query": "low angle view of a tall tree trunk and branches", "target_id": "tree_1.mp4", "type": "exact"}
+{"query": "looking up at bark and mossy patches against blue sky", "target_id": "tree_1.mp4", "type": "paraphrase"}
+{"query": "majesty and quiet strength of a forest tree", "target_id": "tree_1.mp4", "type": "semantic"}
+{"query": "lighting shifting to reveal textures on tree surface", "target_id": "tree_1.mp4", "type": "motion"}
+{"query": "peaceful and contemplative woodland cinematography", "target_id": "tree_1.mp4", "type": "style"}
+{"query": "coniferous trees canopy against a slightly overcast sky", "target_id": "tree_2.mp4", "type": "exact"}
+{"query": "soft light creating lens flare through dark tree branches", "target_id": "tree_2.mp4", "type": "paraphrase"}
+{"query": "tranquil and undisturbed forested atmosphere", "target_id": "tree_2.mp4", "type": "semantic"}
+{"query": "subtle changes in lighting and shadowing on tree canopy", "target_id": "tree_2.mp4", "type": "motion"}
+{"query": "stationary natural landscape perspective", "target_id": "tree_2.mp4", "type": "style"}
+{"query": "looking up at green forest leaves and sunlit branches", "target_id": "tree_3.mp4", "type": "exact"}
+{"query": "sunlight filtering through a forest canopy from below", "target_id": "tree_3.mp4", "type": "paraphrase"}
+{"query": "quiet beauty of a natural woods environment", "target_id": "tree_3.mp4", "type": "semantic"}
+{"query": "dappled light and shadow patterns shifting on ground", "target_id": "tree_3.mp4", "type": "motion"}
+{"query": "low-angle immersive forest cinematography", "target_id": "tree_3.mp4", "type": "style"}
+{"query": "palm trees lining a dirt road under overcast tropical sky", "target_id": "tree_4.mp4", "type": "exact"}
+{"query": "row of tall palm trees in a serene tropical landscape", "target_id": "tree_4.mp4", "type": "paraphrase"}
+{"query": "tranquility of a rural tropical setting", "target_id": "tree_4.mp4", "type": "semantic"}
+{"query": "subtle shift in atmospheric conditions over trees", "target_id": "tree_4.mp4", "type": "motion"}
+{"query": "steady tropical road nature footage", "target_id": "tree_4.mp4", "type": "style"}
+{"query": "camera panning right across green shrubs and yellow flowers", "target_id": "tree_5.mp4", "type": "exact"}
+{"query": "rural landscape with hills and distant fence under blue sky", "target_id": "tree_5.mp4", "type": "paraphrase"}
+{"query": "tranquil beauty of an undisturbed countryside", "target_id": "tree_5.mp4", "type": "semantic"}
+{"query": "smooth horizontal pan revealing more vegetation and scenery", "target_id": "tree_5.mp4", "type": "motion"}
+{"query": "bright and clear rural nature photography", "target_id": "tree_5.mp4", "type": "style"}
+{"query": "two women in vibrant patterned tops talking outdoors", "target_id": "tree_6.mp4", "type": "exact"}
+{"query": "people gesturing in a conversation in a green lush environment", "target_id": "tree_6.mp4", "type": "paraphrase"}
+{"query": "calm and natural social interaction", "target_id": "tree_6.mp4", "type": "semantic"}
+{"query": "hands moving while women talk in a forested setting", "target_id": "tree_6.mp4", "type": "motion"}
+{"query": "low-angle portrait of social lifestyle", "target_id": "tree_6.mp4", "type": "style"}
+{"query": "low-angle of legs walking through green field at sunset", "target_id": "walking.mp4", "type": "exact"}
+{"query": "feet brushing through grass with long shadows in warm light", "target_id": "walking.mp4", "type": "paraphrase"}
+{"query": "peaceful and contemplative walk in nature", "target_id": "walking.mp4", "type": "semantic"}
+{"query": "grass swaying gently as a person progresses forward", "target_id": "walking.mp4", "type": "motion"}
+{"query": "serene golden-hour environmental close-up", "target_id": "walking.mp4", "type": "style"}
+{"query": "silhouettes walking on wet sand during a beach sunset", "target_id": "walking_2.mp4", "type": "exact"}
+{"query": "people moving closer to camera on a reflective shoreline", "target_id": "walking_2.mp4", "type": "paraphrase"}
+{"query": "reflective beauty and quietude of a coastal dusk", "target_id": "walking_2.mp4", "type": "semantic"}
+{"query": "figures becoming more defined as they walk toward the viewer", "target_id": "walking_2.mp4", "type": "motion"}
+{"query": "contemplative stationary beach sunset shot", "target_id": "walking_2.mp4", "type": "style"}
+{"query": "person in denim jacket standing by glass building at night", "target_id": "walking_3.mp4", "type": "exact"}
+{"query": "medium shot from behind of a figure looking around a city", "target_id": "walking_3.mp4", "type": "paraphrase"}
+{"query": "introspective solitude in a modern urban landscape", "target_id": "walking_3.mp4", "type": "semantic"}
+{"query": "individual beginning to move and turning their head", "target_id": "walking_3.mp4", "type": "motion"}
+{"query": "moody and atmospheric evening building shot", "target_id": "walking_3.mp4", "type": "style"}
+{"query": "man in red jacket walking through graffiti alley and street", "target_id": "walking_4.mp4", "type": "exact"}
+{"query": "foot stepping on cobblestones followed by urban street scenes", "target_id": "walking_4.mp4", "type": "paraphrase"}
+{"query": "dynamic and quiet aspects of city life", "target_id": "walking_4.mp4", "type": "semantic"}
+{"query": "man with backpack navigating a busy city environment", "target_id": "walking_4.mp4", "type": "motion"}
+{"query": "observational urban street photography sequence", "target_id": "walking_4.mp4", "type": "style"}

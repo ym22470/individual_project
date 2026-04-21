@@ -1,0 +1,100 @@
+{"query": "ocean waves gently lapping against a sandy shore", "target_ids":["beach.mp4", "beach_3.mp4", "beach_4.mp4"], "type": "exact"}
+{"query": "close up of a cat face and eyes indoors", "target_ids":["cat_alone_2.mp4", "cat_alone_4.mp4", "cat_eating.mp4"], "type": "exact"}
+{"query": "small dog resting or lying down on furniture", "target_ids":["dog_alone_1.mp4", "dog_alone_4.mp4", "dog_cat_human_3.mp4"], "type": "exact"}
+{"query": "male deer or stags with large antlers in a field", "target_ids":["deer_3.mp4", "deer_4.mp4"], "type": "exact"}
+{"query": "vintage or classic red car driving on a road", "target_ids":["cars_3.mp4", "cars_5.mp4", "cars_fast_1.mp4"], "type": "exact"}
+{"query": "chef or cook stirring ingredients in a kitchen pot", "target_ids":["cooking_1.mp4", "cooking_2.mp4", "cooking_5.mp4"], "type": "exact"}
+{"query": "busy city street with heavy traffic at night", "target_ids":["night_traffic_cars_fast.mp4", "night_traffic_cars_fast_3.mp4", "night_traffic_cars_fast_5.mp4"], "type": "exact"}
+{"query": "person enjoying a meal and eating food", "target_ids":["human_eating.mp4", "human_eating_2.mp4", "human_eating_3.mp4"], "type": "exact"}
+{"query": "looking up at a forest canopy or tree branches", "target_ids":["tree_1.mp4", "tree_2.mp4", "tree_3.mp4"], "type": "exact"}
+{"query": "dogs and cats indoors with people", "target_ids":["dog_cat_human_2.mp4", "dog_cat_human_3.mp4"], "type": "exact"}
+{"query": "sea water washing up onto the coastline", "target_ids":["beach.mp4", "beach_3.mp4", "beach_4.mp4"], "type": "paraphrase"}
+{"query": "tight shot of a feline's head and gaze inside a house", "target_ids":["cat_alone_2.mp4", "cat_alone_4.mp4", "cat_eating.mp4"], "type": "paraphrase"}
+{"query": "pup lounging comfortably on a couch or rug", "target_ids":["dog_alone_1.mp4", "dog_alone_4.mp4", "dog_cat_human_3.mp4"], "type": "paraphrase"}
+{"query": "wild bucks displaying impressive horns in a meadow", "target_ids": ["deer_3.mp4", "deer_4.mp4"], "type": "paraphrase"}
+{"query": "old-school crimson automobile traveling down the street", "target_ids":["cars_3.mp4", "cars_5.mp4", "cars_fast_1.mp4"], "type": "paraphrase"}
+{"query": "culinary professional mixing a meal in cookware", "target_ids":["cooking_1.mp4", "cooking_2.mp4", "cooking_5.mp4"], "type": "paraphrase"}
+{"query": "congested metropolitan roads illuminated during the evening", "target_ids":["night_traffic_cars_fast.mp4", "night_traffic_cars_fast_3.mp4", "night_traffic_cars_fast_5.mp4"], "type": "paraphrase"}
+{"query": "individual taking a bite out of a tasty dish", "target_ids":["human_eating.mp4", "human_eating_2.mp4", "human_eating_3.mp4"], "type": "paraphrase"}
+{"query": "view from below of woodland foliage and timber", "target_ids":["tree_1.mp4", "tree_2.mp4", "tree_3.mp4"], "type": "paraphrase"}
+{"query": "domesticated animals hanging out inside with their owners", "target_ids":["dog_cat_human_2.mp4", "dog_cat_human_3.mp4"], "type": "paraphrase"}
+{"query": "tranquil and peaceful atmosphere in nature", "target_ids":["tree_2.mp4", "beach_3.mp4", "deer_2.mp4", "sunset_5.mp4"], "type": "semantic"}
+{"query": "bustling urban environment with buildings and streets", "target_ids":["walking_4.mp4", "bicycles_human_car.mp4", "walking_3.mp4"], "type": "semantic"}
+{"query": "affectionate bond between a human and their pets", "target_ids":["dog_cat_human_1.mp4", "dog_cat_human_3.mp4"], "type": "semantic"}
+{"query": "carefree childhood moments of outdoor play", "target_ids":["children.mp4", "children_3.mp4", "beach_child.mp4"], "type": "semantic"}
+{"query": "idyllic rural countryside with green vegetation", "target_ids":["tree_5.mp4", "cars_2.mp4", "bicycles_human_fast_3.mp4"], "type": "semantic"}
+{"query": "warm tropical setting with palm trees", "target_ids":["tree_4.mp4", "bicycles_human_1.mp4"], "type": "semantic"}
+{"query": "curious interplay and gentle companionship between two pets", "target_ids":["dog_and_cat.mp4", "dog_and_cat_2.mp4"], "type": "semantic"}
+{"query": "romantic or contemplative mood during a coastal dusk", "target_ids":["sunset_2.mp4", "walking_2.mp4", "beach_2.mp4"], "type": "semantic"}
+{"query": "intense physical focus during a sports activity", "target_ids":["bicycles_human_2.mp4", "playing_football.mp4"], "type": "semantic"}
+{"query": "artistic and concentrated culinary meal preparation", "target_ids": ["cooking_3.mp4", "cooking_4.mp4"], "type": "semantic"}
+{"query": "legs walking forward brushing through grass or over ground", "target_ids":["walking.mp4", "walking_4.mp4", "children_playing_football_2.mp4"], "type": "motion"}
+{"query": "animal lowering its head to sniff or eat food", "target_ids":["dog_eating.mp4", "cat_eating.mp4", "deer_5.mp4"], "type": "motion"}
+{"query": "kicking or controlling a football on a surface", "target_ids":["football.mp4", "playing_football.mp4", "children_playing_football_2.mp4"], "type": "motion"}
+{"query": "rapid descent or fast pedaling on a bicycle", "target_ids":["bicycles_human_fast_4.mp4", "bicycles_human_2.mp4", "bicycles.mp4"], "type": "motion"}
+{"query": "fast forward motion through a city with lights blurring past", "target_ids":["night_traffic_cars_fast_2.mp4", "night_traffic_cars_fast_3.mp4"], "type": "motion"}
+{"query": "cat moving its body to walk across a room or stairs", "target_ids": ["cat_alone_3.mp4", "dog_cat_human_3.mp4"], "type": "motion"}
+{"query": "young person jumping or bouncing actively", "target_ids":["playing_basketball.mp4", "beach_child.mp4"], "type": "motion"}
+{"query": "sun visibly shifting or sinking toward the horizon", "target_ids":["sunset.mp4", "sunset_4.mp4"], "type": "motion"}
+{"query": "birds flapping wings and flying across the sky", "target_ids": ["sunset_3.mp4", "beach_child.mp4"], "type": "motion"}
+{"query": "water surface shifting with ripples or dynamic splashes", "target_ids": ["beach.mp4", "beach_5.mp4", "sunset_4.mp4"], "type": "motion"}
+{"query": "warm golden hour lighting casting long shadows", "target_ids":["deer_1.mp4", "deer_4.mp4", "cars_4.mp4", "walking.mp4"], "type": "style"}
+{"query": "dark silhouettes contrasting against a bright or colorful sky", "target_ids":["sunset_2.mp4", "sunset_3.mp4", "beach_2.mp4", "walking_2.mp4"], "type": "style"}
+{"query": "softly lit close-up portrait highlighting facial features", "target_ids":["children_2.mp4", "human_eating_4.mp4"], "type": "style"}
+{"query": "low angle perspective looking up from the ground", "target_ids":["tree_1.mp4", "tree_3.mp4", "playing_football.mp4", "walking.mp4"], "type": "style"}
+{"query": "stationary wide shot of an illuminated city skyline at night", "target_ids":["night_traffic_cars_fast_4.mp4", "night_traffic_cars_fast_5.mp4"], "type": "style"}
+{"query": "minimalist high contrast lighting against a dark background", "target_ids":["holding_basketball.mp4", "dog_alone_3.mp4", "cat_alone_1.mp4"], "type": "style"}
+{"query": "soft diffused lighting under an overcast or cloudy sky", "target_ids":["tree_2.mp4", "beach_child.mp4", "dog_cat_human_1.mp4"], "type": "style"}
+{"query": "shallow depth of field with the background heavily blurred", "target_ids":["cat_alone_2.mp4", "dog_eating.mp4", "cooking_4.mp4"], "type": "style"}
+{"query": "footage containing the Artlist watermark or logo", "target_ids":["beach_3.mp4", "beach_5.mp4", "sunset_5.mp4", "tree_4.mp4", "tree_5.mp4", "tree_6.mp4"], "type": "style"}
+{"query": "cinematic vintage aesthetic and grading", "target_ids":["bicycles_human_1.mp4", "cars_3.mp4", "walking_4.mp4"], "type": "style"}
+{"query": "white or light-colored truck traveling on the road", "target_ids":["cars_2.mp4", "night_traffic_cars_fast_2.mp4"], "type": "exact"}
+{"query": "woman or women spending time outdoors in nature", "target_ids":["tree_6.mp4", "dog_cat_human_1.mp4"], "type": "exact"}
+{"query": "person walking away from the camera down a street or alley", "target_ids": ["walking_3.mp4", "walking_4.mp4"], "type": "exact"}
+{"query": "close up of fresh green vegetables or leaves", "target_ids":["cooking_4.mp4", "children_3.mp4", "tree_3.mp4"], "type": "exact"}
+{"query": "person with a nose ring and teal hair", "target_ids":["human_eating_2.mp4", "human_eating_4.mp4"], "type": "exact"}
+{"query": "cat with bright yellow or green eyes looking forward", "target_ids":["cat_alone_2.mp4", "cat_alone_4.mp4"], "type": "exact"}
+{"query": "bicycle wheels turning on a road or path", "target_ids":["bicycles.mp4", "bicycles_human_1.mp4", "bicycles_human_fast_4.mp4"], "type": "exact"}
+{"query": "deer grazing on the ground or grass", "target_ids": ["deer_3.mp4", "deer_5.mp4"], "type": "exact"}
+{"query": "meat or steak being cooked over an open flame", "target_ids":["cooking_2.mp4", "cooking_3.mp4"], "type": "exact"}
+{"query": "man relaxing or sitting on a couch inside", "target_ids":["dog_cat_human_2.mp4", "dog_cat_human_3.mp4"], "type": "exact"}
+{"query": "pale commercial vehicle moving along the highway", "target_ids":["cars_2.mp4", "night_traffic_cars_fast_2.mp4"], "type": "paraphrase"}
+{"query": "females enjoying the open air surrounded by greenery", "target_ids":["tree_6.mp4", "dog_cat_human_1.mp4"], "type": "paraphrase"}
+{"query": "individual strolling down an urban path with their back turned", "target_ids":["walking_3.mp4", "walking_4.mp4"], "type": "paraphrase"}
+{"query": "macro shot of crisp leafy greens and foliage", "target_ids":["cooking_4.mp4", "children_3.mp4", "tree_3.mp4"], "type": "paraphrase"}
+{"query": "individual sporting facial piercings and blue-green dyed hair", "target_ids":["human_eating_2.mp4", "human_eating_4.mp4"], "type": "paraphrase"}
+{"query": "feline staring ahead with striking colored irises", "target_ids":["cat_alone_2.mp4", "cat_alone_4.mp4"], "type": "paraphrase"}
+{"query": "bike tires spinning rapidly along a route", "target_ids":["bicycles.mp4", "bicycles_human_1.mp4", "bicycles_human_fast_4.mp4"], "type": "paraphrase"}
+{"query": "wild ungulates feeding on low vegetation", "target_ids":["deer_3.mp4", "deer_5.mp4"], "type": "paraphrase"}
+{"query": "protein being seared on a hot grill or fire", "target_ids":["cooking_2.mp4", "cooking_3.mp4"], "type": "paraphrase"}
+{"query": "guy lounging comfortably on indoor furniture", "target_ids":["dog_cat_human_2.mp4", "dog_cat_human_3.mp4"], "type": "paraphrase"}
+{"query": "solitary and quiet exploration of a city at evening", "target_ids":["walking_3.mp4", "bicycles_human_car.mp4"], "type": "semantic"}
+{"query": "refreshing and bright summer day at the ocean", "target_ids":["beach_4.mp4", "beach_child.mp4"], "type": "semantic"}
+{"query": "high speed adrenaline and automotive action", "target_ids": ["cars_5.mp4", "cars_fast_1.mp4"], "type": "semantic"}
+{"query": "cozy and sleepy domestic animal moments", "target_ids":["dog_alone_2.mp4", "dog_alone_4.mp4", "cat_alone_4.mp4"], "type": "semantic"}
+{"query": "professional culinary precision and food prep", "target_ids": ["cooking_1.mp4", "cooking_4.mp4"], "type": "semantic"}
+{"query": "peaceful co-existence of animals in the wild", "target_ids":["deer_2.mp4", "deer_4.mp4", "deer_5.mp4"], "type": "semantic"}
+{"query": "active lifestyle and outdoor fitness pursuits", "target_ids":["bicycles_human_fast_3.mp4", "bicycles_human_fast_4.mp4", "playing_football.mp4"], "type": "semantic"}
+{"query": "enjoying the serenity of a remote rural landscape", "target_ids":["tree_5.mp4", "cars_2.mp4", "cars_4.mp4"], "type": "semantic"}
+{"query": "intimate and candid home video of a family pet", "target_ids":["cat_alone_3.mp4", "dog_alone_1.mp4", "cat_eating.mp4"], "type": "semantic"}
+{"query": "vibrant and dynamic modern city life", "target_ids":["night_traffic_cars_fast.mp4", "walking_4.mp4", "bicycles_human_car.mp4"], "type": "semantic"}
+{"query": "camera panning or tracking alongside a moving vehicle", "target_ids":["cars_2.mp4", "cars_3.mp4", "cars_4.mp4", "cars_5.mp4"], "type": "motion"}
+{"query": "hands deliberately chopping or slicing ingredients", "target_ids": ["cooking_4.mp4", "human_eating.mp4"], "type": "motion"}
+{"query": "animal standing up or shifting its posture from rest", "target_ids":["deer_3.mp4", "dog_alone_4.mp4", "cat_eating.mp4"], "type": "motion"}
+{"query": "continuous flow of multi-lane highway traffic", "target_ids":["night_traffic_cars_fast.mp4", "night_traffic_cars_fast_3.mp4", "night_traffic_cars_fast_5.mp4"], "type": "motion"}
+{"query": "child running swiftly across the frame", "target_ids":["beach_child.mp4", "children_playing_football_2.mp4"], "type": "motion"}
+{"query": "spoon stirring or mixing contents inside a pot", "target_ids":["cooking_1.mp4", "cooking_2.mp4", "cooking_5.mp4"], "type": "motion"}
+{"query": "leaves and branches swaying gently in the wind", "target_ids":["tree_1.mp4", "tree_3.mp4", "cars_4.mp4"], "type": "motion"}
+{"query": "person taking a bite and chewing their food", "target_ids":["human_eating_2.mp4", "human_eating_3.mp4"], "type": "motion"}
+{"query": "dog or cat panting or moving its mouth", "target_ids":["dog_and_cat_2.mp4", "dog_eating.mp4"], "type": "motion"}
+{"query": "camera tilting or pointing upwards towards the sky", "target_ids":["tree_1.mp4", "tree_3.mp4", "playing_basketball.mp4"], "type": "motion"}
+{"query": "steady and static observational camera work", "target_ids":["beach_4.mp4", "tree_2.mp4", "sunset.mp4", "bicycles_human_1.mp4"], "type": "style"}
+{"query": "dramatic lens flare or sun filtering through the scene", "target_ids": ["tree_2.mp4", "tree_3.mp4"], "type": "style"}
+{"query": "monochromatic or highly desaturated dark environment", "target_ids":["holding_basketball.mp4", "walking_3.mp4"], "type": "style"}
+{"query": "elevated or drone-like perspective of a roadway", "target_ids":["night_traffic_cars_fast.mp4", "night_traffic_cars_fast_3.mp4", "night_traffic_cars_fast_4.mp4"], "type": "style"}
+{"query": "action camera or POV perspective shot", "target_ids":["bicycles_human_fast_4.mp4", "night_traffic_cars_fast_2.mp4"], "type": "style"}
+{"query": "shallow focus emphasizing rich textures of fur or clothing", "target_ids":["cat_alone_4.mp4", "dog_alone_2.mp4", "human_eating_2.mp4"], "type": "style"}
+{"query": "vibrant and highly saturated color grading", "target_ids":["human_eating.mp4", "cooking_5.mp4", "tree_6.mp4"], "type": "style"}
+{"query": "hazy or misty atmospheric photography", "target_ids":["deer_1.mp4", "beach_5.mp4"], "type": "style"}
+{"query": "macro cinematography focusing on hands and tools", "target_ids":["cooking_1.mp4", "cooking_4.mp4", "human_eating.mp4"], "type": "style"}
+{"query": "silhouette effect with a deep orange or red gradient background", "target_ids":["sunset_2.mp4", "sunset_3.mp4", "sunset_5.mp4", "beach_2.mp4"], "type": "style"}

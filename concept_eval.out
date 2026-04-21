@@ -1,0 +1,356 @@
+Loading queries...
+  Loaded 100 multi-target queries
+Loading embedding model...
+
+============================================================
+Evaluating base_quantized
+============================================================
+
+Query                                                   Type         R@5    P@5    AP    
+------------------------------------------------------------------------------------------
+ocean waves gently lapping against a sandy shore        exact        1.000    0.600    0.867 
+close up of a cat face and eyes indoors                 exact        0.667    0.400    0.833 
+small dog resting or lying down on furniture            exact        0.667    0.400    0.778 
+male deer or stags with large antlers in a field        exact        1.000    0.400    1.000 
+vintage or classic red car driving on a road            exact        1.000    0.600    0.806 
+chef or cook stirring ingredients in a kitchen pot      exact        1.000    0.600    1.000 
+busy city street with heavy traffic at night            exact        1.000    0.600    1.000 
+person enjoying a meal and eating food                  exact        1.000    0.600    0.917 
+looking up at a forest canopy or tree branches          exact        1.000    0.600    1.000 
+dogs and cats indoors with people                       exact        1.000    0.400    0.583 
+sea water washing up onto the coastline                 paraphrase   1.000    0.600    0.917 
+tight shot of a feline's head and gaze inside a house   paraphrase   1.000    0.600    0.806 
+pup lounging comfortably on a couch or rug              paraphrase   1.000    0.600    1.000 
+wild bucks displaying impressive horns in a meadow      paraphrase   0.500    0.200    0.417 
+old-school crimson automobile traveling down the stre   paraphrase   1.000    0.600    0.756 
+culinary professional mixing a meal in cookware         paraphrase   1.000    0.600    0.867 
+congested metropolitan roads illuminated during the e   paraphrase   1.000    0.600    1.000 
+individual taking a bite out of a tasty dish            paraphrase   0.667    0.400    0.722 
+view from below of woodland foliage and timber          paraphrase   1.000    0.600    1.000 
+domesticated animals hanging out inside with their ow   paraphrase   1.000    0.400    0.500 
+tranquil and peaceful atmosphere in nature              semantic     0.250    0.200    0.321 
+bustling urban environment with buildings and streets   semantic     0.333    0.200    0.322 
+affectionate bond between a human and their pets        semantic     0.500    0.200    0.643 
+carefree childhood moments of outdoor play              semantic     0.333    0.200    0.389 
+idyllic rural countryside with green vegetation         semantic     0.667    0.400    0.704 
+warm tropical setting with palm trees                   semantic     0.500    0.200    0.518 
+curious interplay and gentle companionship between tw   semantic     1.000    0.400    0.750 
+romantic or contemplative mood during a coastal dusk    semantic     1.000    0.600    0.639 
+intense physical focus during a sports activity         semantic     1.000    0.400    0.750 
+artistic and concentrated culinary meal preparation     semantic     0.500    0.200    0.393 
+legs walking forward brushing through grass or over g   motion       0.333    0.200    0.439 
+animal lowering its head to sniff or eat food           motion       0.667    0.400    0.592 
+kicking or controlling a football on a surface          motion       1.000    0.600    1.000 
+rapid descent or fast pedaling on a bicycle             motion       1.000    0.600    0.867 
+fast forward motion through a city with lights blurri   motion       1.000    0.400    1.000 
+cat moving its body to walk across a room or stairs     motion       0.500    0.200    0.611 
+young person jumping or bouncing actively               motion       1.000    0.400    0.833 
+sun visibly shifting or sinking toward the horizon      motion       1.000    0.400    0.450 
+birds flapping wings and flying across the sky          motion       0.500    0.200    0.542 
+water surface shifting with ripples or dynamic splash   motion       0.667    0.400    0.744 
+warm golden hour lighting casting long shadows          style        0.250    0.200    0.279 
+dark silhouettes contrasting against a bright or colo   style        0.500    0.400    0.496 
+softly lit close-up portrait highlighting facial feat   style        0.000    0.000    0.091 
+low angle perspective looking up from the ground        style        0.500    0.400    0.487 
+stationary wide shot of an illuminated city skyline a   style        1.000    0.400    1.000 
+minimalist high contrast lighting against a dark back   style        0.333    0.200    0.272 
+soft diffused lighting under an overcast or cloudy sk   style        0.333    0.200    0.375 
+shallow depth of field with the background heavily bl   style        0.000    0.000    0.052 
+footage containing the Artlist watermark or logo        style        0.167    0.200    0.366 
+cinematic vintage aesthetic and grading                 style        0.000    0.000    0.073 
+white or light-colored truck traveling on the road      exact        1.000    0.400    0.750 
+woman or women spending time outdoors in nature         exact        1.000    0.400    1.000 
+person walking away from the camera down a street or    exact        0.500    0.200    0.625 
+close up of fresh green vegetables or leaves            exact        0.667    0.400    0.600 
+person with a nose ring and teal hair                   exact        1.000    0.400    0.833 
+cat with bright yellow or green eyes looking forward    exact        1.000    0.400    1.000 
+bicycle wheels turning on a road or path                exact        0.667    0.400    0.833 
+deer grazing on the ground or grass                     exact        1.000    0.400    0.750 
+meat or steak being cooked over an open flame           exact        1.000    0.400    1.000 
+man relaxing or sitting on a couch inside               exact        1.000    0.400    0.583 
+pale commercial vehicle moving along the highway        paraphrase   1.000    0.400    0.833 
+females enjoying the open air surrounded by greenery    paraphrase   1.000    0.400    0.583 
+individual strolling down an urban path with their ba   paraphrase   0.500    0.200    0.559 
+macro shot of crisp leafy greens and foliage            paraphrase   0.667    0.400    0.330 
+individual sporting facial piercings and blue-green d   paraphrase   1.000    0.400    1.000 
+feline staring ahead with striking colored irises       paraphrase   1.000    0.400    1.000 
+bike tires spinning rapidly along a route               paraphrase   0.667    0.400    0.833 
+wild ungulates feeding on low vegetation                paraphrase   0.500    0.200    0.667 
+protein being seared on a hot grill or fire             paraphrase   1.000    0.400    1.000 
+guy lounging comfortably on indoor furniture            paraphrase   1.000    0.400    0.417 
+solitary and quiet exploration of a city at evening     semantic     0.500    0.200    0.268 
+refreshing and bright summer day at the ocean           semantic     0.000    0.000    0.134 
+high speed adrenaline and automotive action             semantic     1.000    0.400    0.750 
+cozy and sleepy domestic animal moments                 semantic     0.000    0.000    0.154 
+professional culinary precision and food prep           semantic     1.000    0.400    1.000 
+peaceful co-existence of animals in the wild            semantic     0.667    0.400    0.335 
+active lifestyle and outdoor fitness pursuits           semantic     0.333    0.200    0.285 
+enjoying the serenity of a remote rural landscape       semantic     0.667    0.400    0.584 
+intimate and candid home video of a family pet          semantic     0.333    0.200    0.287 
+vibrant and dynamic modern city life                    semantic     0.667    0.400    0.500 
+camera panning or tracking alongside a moving vehicle   motion       0.750    0.600    0.525 
+hands deliberately chopping or slicing ingredients      motion       0.500    0.200    0.643 
+animal standing up or shifting its posture from rest    motion       0.000    0.000    0.206 
+continuous flow of multi-lane highway traffic           motion       0.667    0.400    0.614 
+child running swiftly across the frame                  motion       0.500    0.200    0.643 
+spoon stirring or mixing contents inside a pot          motion       1.000    0.600    1.000 
+leaves and branches swaying gently in the wind          motion       0.333    0.200    0.230 
+person taking a bite and chewing their food             motion       1.000    0.400    0.500 
+dog or cat panting or moving its mouth                  motion       1.000    0.400    1.000 
+camera tilting or pointing upwards towards the sky      motion       0.667    0.400    0.311 
+steady and static observational camera work             style        0.250    0.200    0.295 
+dramatic lens flare or sun filtering through the scen   style        0.500    0.200    0.577 
+monochromatic or highly desaturated dark environment    style        0.000    0.000    0.122 
+elevated or drone-like perspective of a roadway         style        0.000    0.000    0.178 
+action camera or POV perspective shot                   style        0.500    0.200    0.309 
+shallow focus emphasizing rich textures of fur or clo   style        0.333    0.200    0.210 
+vibrant and highly saturated color grading              style        0.000    0.000    0.069 
+hazy or misty atmospheric photography                   style        0.500    0.200    0.312 
+macro cinematography focusing on hands and tools        style        0.667    0.400    0.684 
+silhouette effect with a deep orange or red gradient    style        0.500    0.400    0.532 
+
+============================================================
+Evaluating long_quantized
+============================================================
+
+Query                                                   Type         R@5    P@5    AP    
+------------------------------------------------------------------------------------------
+ocean waves gently lapping against a sandy shore        exact        1.000    0.600    1.000 
+close up of a cat face and eyes indoors                 exact        1.000    0.600    0.917 
+small dog resting or lying down on furniture            exact        1.000    0.600    0.867 
+male deer or stags with large antlers in a field        exact        1.000    0.400    1.000 
+vintage or classic red car driving on a road            exact        1.000    0.600    0.917 
+chef or cook stirring ingredients in a kitchen pot      exact        1.000    0.600    1.000 
+busy city street with heavy traffic at night            exact        1.000    0.600    0.700 
+person enjoying a meal and eating food                  exact        1.000    0.600    1.000 
+looking up at a forest canopy or tree branches          exact        1.000    0.600    1.000 
+dogs and cats indoors with people                       exact        1.000    0.400    0.583 
+sea water washing up onto the coastline                 paraphrase   1.000    0.600    0.917 
+tight shot of a feline's head and gaze inside a house   paraphrase   1.000    0.600    0.917 
+pup lounging comfortably on a couch or rug              paraphrase   1.000    0.600    0.917 
+wild bucks displaying impressive horns in a meadow      paraphrase   1.000    0.400    0.833 
+old-school crimson automobile traveling down the stre   paraphrase   1.000    0.600    0.917 
+culinary professional mixing a meal in cookware         paraphrase   1.000    0.600    1.000 
+congested metropolitan roads illuminated during the e   paraphrase   0.667    0.400    0.698 
+individual taking a bite out of a tasty dish            paraphrase   1.000    0.600    0.917 
+view from below of woodland foliage and timber          paraphrase   1.000    0.600    0.867 
+domesticated animals hanging out inside with their ow   paraphrase   1.000    0.400    0.367 
+tranquil and peaceful atmosphere in nature              semantic     0.250    0.200    0.283 
+bustling urban environment with buildings and streets   semantic     0.333    0.200    0.278 
+affectionate bond between a human and their pets        semantic     0.500    0.200    0.417 
+carefree childhood moments of outdoor play              semantic     0.667    0.400    0.833 
+idyllic rural countryside with green vegetation         semantic     0.667    0.400    0.558 
+warm tropical setting with palm trees                   semantic     0.500    0.200    0.522 
+curious interplay and gentle companionship between tw   semantic     1.000    0.400    1.000 
+romantic or contemplative mood during a coastal dusk    semantic     1.000    0.600    0.533 
+intense physical focus during a sports activity         semantic     1.000    0.400    1.000 
+artistic and concentrated culinary meal preparation     semantic     0.500    0.200    0.292 
+legs walking forward brushing through grass or over g   motion       0.667    0.400    0.584 
+animal lowering its head to sniff or eat food           motion       0.667    0.400    0.633 
+kicking or controlling a football on a surface          motion       1.000    0.600    1.000 
+rapid descent or fast pedaling on a bicycle             motion       1.000    0.600    0.806 
+fast forward motion through a city with lights blurri   motion       1.000    0.400    0.700 
+cat moving its body to walk across a room or stairs     motion       0.500    0.200    0.625 
+young person jumping or bouncing actively               motion       0.500    0.200    0.667 
+sun visibly shifting or sinking toward the horizon      motion       1.000    0.400    1.000 
+birds flapping wings and flying across the sky          motion       0.500    0.200    0.571 
+water surface shifting with ripples or dynamic splash   motion       0.333    0.200    0.481 
+warm golden hour lighting casting long shadows          style        0.500    0.400    0.603 
+dark silhouettes contrasting against a bright or colo   style        0.750    0.600    0.500 
+softly lit close-up portrait highlighting facial feat   style        1.000    0.400    0.750 
+low angle perspective looking up from the ground        style        0.500    0.400    0.473 
+stationary wide shot of an illuminated city skyline a   style        1.000    0.400    0.583 
+minimalist high contrast lighting against a dark back   style        0.333    0.200    0.214 
+soft diffused lighting under an overcast or cloudy sk   style        0.333    0.200    0.382 
+shallow depth of field with the background heavily bl   style        0.000    0.000    0.041 
+footage containing the Artlist watermark or logo        style        0.000    0.000    0.123 
+cinematic vintage aesthetic and grading                 style        0.000    0.000    0.109 
+white or light-colored truck traveling on the road      exact        0.500    0.200    0.625 
+woman or women spending time outdoors in nature         exact        1.000    0.400    1.000 
+person walking away from the camera down a street or    exact        1.000    0.400    1.000 
+close up of fresh green vegetables or leaves            exact        0.667    0.400    0.611 
+person with a nose ring and teal hair                   exact        1.000    0.400    1.000 
+cat with bright yellow or green eyes looking forward    exact        1.000    0.400    1.000 
+bicycle wheels turning on a road or path                exact        1.000    0.600    1.000 
+deer grazing on the ground or grass                     exact        1.000    0.400    0.833 
+meat or steak being cooked over an open flame           exact        1.000    0.400    1.000 
+man relaxing or sitting on a couch inside               exact        1.000    0.400    0.700 
+pale commercial vehicle moving along the highway        paraphrase   0.500    0.200    0.611 
+females enjoying the open air surrounded by greenery    paraphrase   0.500    0.200    0.667 
+individual strolling down an urban path with their ba   paraphrase   1.000    0.400    0.833 
+macro shot of crisp leafy greens and foliage            paraphrase   0.667    0.400    0.632 
+individual sporting facial piercings and blue-green d   paraphrase   1.000    0.400    1.000 
+feline staring ahead with striking colored irises       paraphrase   1.000    0.400    1.000 
+bike tires spinning rapidly along a route               paraphrase   1.000    0.600    1.000 
+wild ungulates feeding on low vegetation                paraphrase   1.000    0.400    0.750 
+protein being seared on a hot grill or fire             paraphrase   1.000    0.400    1.000 
+guy lounging comfortably on indoor furniture            paraphrase   1.000    0.400    0.700 
+solitary and quiet exploration of a city at evening     semantic     0.500    0.200    0.667 
+refreshing and bright summer day at the ocean           semantic     0.500    0.200    0.600 
+high speed adrenaline and automotive action             semantic     1.000    0.400    0.750 
+cozy and sleepy domestic animal moments                 semantic     0.333    0.200    0.240 
+professional culinary precision and food prep           semantic     1.000    0.400    1.000 
+peaceful co-existence of animals in the wild            semantic     0.667    0.400    0.444 
+active lifestyle and outdoor fitness pursuits           semantic     0.667    0.400    0.275 
+enjoying the serenity of a remote rural landscape       semantic     0.667    0.400    0.710 
+intimate and candid home video of a family pet          semantic     0.333    0.200    0.195 
+vibrant and dynamic modern city life                    semantic     0.667    0.400    0.592 
+camera panning or tracking alongside a moving vehicle   motion       1.000    0.800    0.887 
+hands deliberately chopping or slicing ingredients      motion       1.000    0.400    0.833 
+animal standing up or shifting its posture from rest    motion       0.333    0.200    0.378 
+continuous flow of multi-lane highway traffic           motion       0.667    0.400    0.610 
+child running swiftly across the frame                  motion       0.500    0.200    0.625 
+spoon stirring or mixing contents inside a pot          motion       1.000    0.600    1.000 
+leaves and branches swaying gently in the wind          motion       0.667    0.400    0.698 
+person taking a bite and chewing their food             motion       1.000    0.400    1.000 
+dog or cat panting or moving its mouth                  motion       1.000    0.400    0.833 
+camera tilting or pointing upwards towards the sky      motion       0.000    0.000    0.114 
+steady and static observational camera work             style        0.250    0.200    0.188 
+dramatic lens flare or sun filtering through the scen   style        0.500    0.200    0.309 
+monochromatic or highly desaturated dark environment    style        0.000    0.000    0.118 
+elevated or drone-like perspective of a roadway         style        0.333    0.200    0.248 
+action camera or POV perspective shot                   style        0.500    0.200    0.145 
+shallow focus emphasizing rich textures of fur or clo   style        0.333    0.200    0.256 
+vibrant and highly saturated color grading              style        0.000    0.000    0.086 
+hazy or misty atmospheric photography                   style        0.500    0.200    0.543 
+macro cinematography focusing on hands and tools        style        0.667    0.400    0.345 
+silhouette effect with a deep orange or red gradient    style        0.250    0.200    0.362 
+
+============================================================
+Evaluating tags_quantized
+============================================================
+
+Query                                                   Type         R@5    P@5    AP    
+------------------------------------------------------------------------------------------
+ocean waves gently lapping against a sandy shore        exact        0.667    0.400    0.698 
+close up of a cat face and eyes indoors                 exact        1.000    0.600    0.917 
+small dog resting or lying down on furniture            exact        1.000    0.600    0.589 
+male deer or stags with large antlers in a field        exact        1.000    0.400    1.000 
+vintage or classic red car driving on a road            exact        1.000    0.600    0.639 
+chef or cook stirring ingredients in a kitchen pot      exact        1.000    0.600    1.000 
+busy city street with heavy traffic at night            exact        1.000    0.600    0.639 
+person enjoying a meal and eating food                  exact        1.000    0.600    1.000 
+looking up at a forest canopy or tree branches          exact        1.000    0.600    1.000 
+dogs and cats indoors with people                       exact        1.000    0.400    0.417 
+sea water washing up onto the coastline                 paraphrase   0.667    0.400    0.810 
+tight shot of a feline's head and gaze inside a house   paraphrase   1.000    0.600    1.000 
+pup lounging comfortably on a couch or rug              paraphrase   1.000    0.600    0.806 
+wild bucks displaying impressive horns in a meadow      paraphrase   1.000    0.400    1.000 
+old-school crimson automobile traveling down the stre   paraphrase   1.000    0.600    0.639 
+culinary professional mixing a meal in cookware         paraphrase   1.000    0.600    1.000 
+congested metropolitan roads illuminated during the e   paraphrase   1.000    0.600    0.589 
+individual taking a bite out of a tasty dish            paraphrase   1.000    0.600    1.000 
+view from below of woodland foliage and timber          paraphrase   1.000    0.600    0.917 
+domesticated animals hanging out inside with their ow   paraphrase   1.000    0.400    0.583 
+tranquil and peaceful atmosphere in nature              semantic     0.250    0.200    0.424 
+bustling urban environment with buildings and streets   semantic     0.333    0.200    0.317 
+affectionate bond between a human and their pets        semantic     0.500    0.200    0.643 
+carefree childhood moments of outdoor play              semantic     1.000    0.600    1.000 
+idyllic rural countryside with green vegetation         semantic     0.333    0.200    0.440 
+warm tropical setting with palm trees                   semantic     0.500    0.200    0.514 
+curious interplay and gentle companionship between tw   semantic     1.000    0.400    1.000 
+romantic or contemplative mood during a coastal dusk    semantic     0.667    0.400    0.681 
+intense physical focus during a sports activity         semantic     0.500    0.200    0.306 
+artistic and concentrated culinary meal preparation     semantic     0.500    0.200    0.267 
+legs walking forward brushing through grass or over g   motion       0.667    0.400    0.588 
+animal lowering its head to sniff or eat food           motion       0.333    0.200    0.528 
+kicking or controlling a football on a surface          motion       1.000    0.600    1.000 
+rapid descent or fast pedaling on a bicycle             motion       0.667    0.400    0.667 
+fast forward motion through a city with lights blurri   motion       1.000    0.400    0.833 
+cat moving its body to walk across a room or stairs     motion       0.500    0.200    0.667 
+young person jumping or bouncing actively               motion       0.500    0.200    0.667 
+sun visibly shifting or sinking toward the horizon      motion       1.000    0.400    0.500 
+birds flapping wings and flying across the sky          motion       0.500    0.200    0.591 
+water surface shifting with ripples or dynamic splash   motion       0.667    0.400    0.758 
+warm golden hour lighting casting long shadows          style        0.500    0.400    0.429 
+dark silhouettes contrasting against a bright or colo   style        0.750    0.600    0.458 
+softly lit close-up portrait highlighting facial feat   style        1.000    0.400    0.833 
+low angle perspective looking up from the ground        style        0.250    0.200    0.428 
+stationary wide shot of an illuminated city skyline a   style        1.000    0.400    1.000 
+minimalist high contrast lighting against a dark back   style        0.333    0.200    0.154 
+soft diffused lighting under an overcast or cloudy sk   style        0.000    0.000    0.121 
+shallow depth of field with the background heavily bl   style        0.000    0.000    0.033 
+footage containing the Artlist watermark or logo        style        0.000    0.000    0.136 
+cinematic vintage aesthetic and grading                 style        0.333    0.200    0.427 
+white or light-colored truck traveling on the road      exact        0.500    0.200    0.643 
+woman or women spending time outdoors in nature         exact        1.000    0.400    0.750 
+person walking away from the camera down a street or    exact        1.000    0.400    0.833 
+close up of fresh green vegetables or leaves            exact        0.667    0.400    0.744 
+person with a nose ring and teal hair                   exact        1.000    0.400    0.700 
+cat with bright yellow or green eyes looking forward    exact        1.000    0.400    1.000 
+bicycle wheels turning on a road or path                exact        0.667    0.400    0.633 
+deer grazing on the ground or grass                     exact        1.000    0.400    0.750 
+meat or steak being cooked over an open flame           exact        1.000    0.400    0.833 
+man relaxing or sitting on a couch inside               exact        1.000    0.400    1.000 
+pale commercial vehicle moving along the highway        paraphrase   0.500    0.200    0.667 
+females enjoying the open air surrounded by greenery    paraphrase   1.000    0.400    0.833 
+individual strolling down an urban path with their ba   paraphrase   1.000    0.400    0.750 
+macro shot of crisp leafy greens and foliage            paraphrase   0.667    0.400    0.643 
+individual sporting facial piercings and blue-green d   paraphrase   1.000    0.400    1.000 
+feline staring ahead with striking colored irises       paraphrase   1.000    0.400    1.000 
+bike tires spinning rapidly along a route               paraphrase   0.667    0.400    0.698 
+wild ungulates feeding on low vegetation                paraphrase   1.000    0.400    0.450 
+protein being seared on a hot grill or fire             paraphrase   1.000    0.400    0.700 
+guy lounging comfortably on indoor furniture            paraphrase   1.000    0.400    0.700 
+solitary and quiet exploration of a city at evening     semantic     1.000    0.400    1.000 
+refreshing and bright summer day at the ocean           semantic     0.500    0.200    0.292 
+high speed adrenaline and automotive action             semantic     1.000    0.400    1.000 
+cozy and sleepy domestic animal moments                 semantic     0.333    0.200    0.227 
+professional culinary precision and food prep           semantic     1.000    0.400    0.833 
+peaceful co-existence of animals in the wild            semantic     0.667    0.400    0.458 
+active lifestyle and outdoor fitness pursuits           semantic     0.333    0.200    0.210 
+enjoying the serenity of a remote rural landscape       semantic     0.333    0.200    0.444 
+intimate and candid home video of a family pet          semantic     0.333    0.200    0.244 
+vibrant and dynamic modern city life                    semantic     0.667    0.400    0.480 
+camera panning or tracking alongside a moving vehicle   motion       0.500    0.400    0.458 
+hands deliberately chopping or slicing ingredients      motion       1.000    0.400    0.833 
+animal standing up or shifting its posture from rest    motion       0.667    0.400    0.260 
+continuous flow of multi-lane highway traffic           motion       0.333    0.200    0.293 
+child running swiftly across the frame                  motion       0.500    0.200    0.625 
+spoon stirring or mixing contents inside a pot          motion       1.000    0.600    1.000 
+leaves and branches swaying gently in the wind          motion       0.333    0.200    0.227 
+person taking a bite and chewing their food             motion       1.000    0.400    1.000 
+dog or cat panting or moving its mouth                  motion       0.500    0.200    0.625 
+camera tilting or pointing upwards towards the sky      motion       0.333    0.200    0.401 
+steady and static observational camera work             style        0.000    0.000    0.073 
+dramatic lens flare or sun filtering through the scen   style        0.000    0.000    0.085 
+monochromatic or highly desaturated dark environment    style        0.500    0.200    0.173 
+elevated or drone-like perspective of a roadway         style        0.000    0.000    0.068 
+action camera or POV perspective shot                   style        1.000    0.400    0.417 
+shallow focus emphasizing rich textures of fur or clo   style        0.333    0.200    0.217 
+vibrant and highly saturated color grading              style        0.000    0.000    0.058 
+hazy or misty atmospheric photography                   style        0.500    0.200    0.567 
+macro cinematography focusing on hands and tools        style        1.000    0.600    0.806 
+silhouette effect with a deep orange or red gradient    style        0.250    0.200    0.302 
+
+=== Concept Understanding Evaluation (multi-target) ===
+
+--- Recall@5 ---
+Type                    Base            Long            Tags
+------------------------------------------------------------
+Exact                  0.908           0.958           0.925
+Paraphrase             0.875           0.917           0.925
+Semantic               0.562           0.637           0.588
+Motion                 0.704           0.717           0.650
+Style                  0.317           0.387           0.388
+
+--- Precision@5 ---
+Type                    Base            Long            Tags
+------------------------------------------------------------
+Exact                  0.450           0.480           0.460
+Paraphrase             0.440           0.460           0.460
+Semantic               0.280           0.320           0.290
+Motion                 0.360           0.370           0.330
+Style                  0.190           0.220           0.210
+
+--- MAP ---
+Type                    Base            Long            Tags
+------------------------------------------------------------
+Exact                  0.838           0.888           0.789
+Paraphrase             0.760           0.827           0.789
+Semantic               0.486           0.559           0.539
+Motion                 0.637           0.702           0.626
+Style                  0.339           0.319           0.339
+
+Saved image to /home/chongshengwang/naratix/concept_eval.png
+Saved text results to /home/chongshengwang/naratix/concept_eval.out

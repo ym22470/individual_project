@@ -1,0 +1,26 @@
+=== Aggregate Metrics (base_quantized) ===
+Cosine Recall@1: 0.468
+Cosine Recall@5: 0.795
+Cosine MRR:      0.614
+Cosine avg latency/query: 702.12 ms
+
+=== Aggregate Metrics (long_quantized) ===
+Cosine Recall@1: 0.668
+Cosine Recall@5: 0.914
+Cosine MRR:      0.769
+Cosine avg latency/query: 744.73 ms
+
+=== Aggregate Metrics (tags_quantized) ===
+Cosine Recall@1: 0.527
+Cosine Recall@5: 0.832
+Cosine MRR:      0.658
+Cosine avg latency/query: 724.98 ms
+
+=== Model Comparison ===
+Queries evaluated: 370
+Metric                        base_quantized long_quantized tags_quantized
+------------------------------------------------------------------------
+Cosine Recall@1                      0.468       0.668       0.527
+Cosine Recall@5                      0.795       0.914       0.832
+Cosine MRR                           0.614       0.769       0.658
+Cosine latency (ms)                 702.12      744.73      724.98 
